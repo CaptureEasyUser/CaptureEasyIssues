@@ -1,0 +1,111 @@
+
+[22 Sep 2020 12:15:21.389]  |Total tempFile count=2
+
+[22 Sep 2020 12:15:21.398]  |Total logFile count=7
+[22 Sep 2020 12:15:21.438]  |Outdated log File CLEAR_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.439]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:15:21.553]  |Outdated log File ERROR_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.553]  |Log File PROCESS_LOG_13476.log skipped because this file is associated with currently running process (13476). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13476.log
+[22 Sep 2020 12:15:21.653]  |Outdated log File PROCESS_LOG_8308.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8308.log
+[22 Sep 2020 12:15:21.654]  |Outdated log File SOFTWAREUPDATE_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.655]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:16:23.110]  |Total tempFile count=2
+
+[22 Sep 2020 12:16:23.117]  |Total logFile count=5
+[22 Sep 2020 12:16:23.118]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:16:23.118]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:16:23.182]  |Outdated log File PROCESS_LOG_13476.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13476.log
+[22 Sep 2020 12:16:23.188]  |Log File PROCESS_LOG_5088.log skipped because this file is associated with currently running process (5088). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_5088.log
+[22 Sep 2020 12:16:23.191]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:17:05.670]  |Total tempFile count=2
+
+[22 Sep 2020 12:17:05.719]  |Total logFile count=5
+[22 Sep 2020 12:17:05.719]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:17:05.720]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:17:05.721]  |Log File PROCESS_LOG_11508.log skipped because this file is associated with currently running process (11508). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11508.log
+[22 Sep 2020 12:17:05.729]  |Outdated log File PROCESS_LOG_5088.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_5088.log
+[22 Sep 2020 12:17:05.729]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:22:01.199]  |Total tempFile count=2
+
+[22 Sep 2020 12:22:01.234]  |Total logFile count=5
+[22 Sep 2020 12:22:01.239]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:22:01.242]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:22:01.252]  |Outdated log File PROCESS_LOG_11508.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11508.log
+[22 Sep 2020 12:22:01.252]  |Log File PROCESS_LOG_11648.log skipped because this file is associated with currently running process (11648). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11648.log
+[22 Sep 2020 12:22:01.263]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:31:03.839]  |Total tempFile count=2
+
+[22 Sep 2020 12:31:03.859]  |Total logFile count=5
+[22 Sep 2020 12:31:03.861]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:31:03.862]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:31:03.872]  |Outdated log File PROCESS_LOG_11648.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11648.log
+[22 Sep 2020 12:31:03.872]  |Log File PROCESS_LOG_8332.log skipped because this file is associated with currently running process (8332). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8332.log
+[22 Sep 2020 12:31:03.872]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:32:34.426]  |Total tempFile count=2
+
+[22 Sep 2020 12:32:34.431]  |Total logFile count=5
+[22 Sep 2020 12:32:34.432]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:32:34.432]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:32:34.432]  |Log File PROCESS_LOG_10580.log skipped because this file is associated with currently running process (10580). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_10580.log
+[22 Sep 2020 12:32:34.447]  |Outdated log File PROCESS_LOG_8332.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8332.log
+[22 Sep 2020 12:32:34.449]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:34:32.973]  |Total tempFile count=2
+
+[22 Sep 2020 12:34:32.979]  |Total logFile count=5
+[22 Sep 2020 12:34:32.980]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:34:32.982]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:34:32.992]  |Outdated log File PROCESS_LOG_10580.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_10580.log
+[22 Sep 2020 12:34:32.992]  |Log File PROCESS_LOG_17384.log skipped because this file is associated with currently running process (17384). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_17384.log
+[22 Sep 2020 12:34:32.993]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:35:55.674]  |Total tempFile count=2
+
+[22 Sep 2020 12:35:55.679]  |Total logFile count=5
+[22 Sep 2020 12:35:55.680]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:35:55.680]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:35:55.680]  |Log File PROCESS_LOG_11012.log skipped because this file is associated with currently running process (11012). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11012.log
+[22 Sep 2020 12:35:55.688]  |Outdated log File PROCESS_LOG_17384.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_17384.log
+[22 Sep 2020 12:35:55.688]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:36:45.628]  |Total tempFile count=2
+
+[22 Sep 2020 12:36:45.628]  |Total logFile count=5
+[22 Sep 2020 12:36:45.638]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:36:45.639]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:36:45.644]  |Outdated log File PROCESS_LOG_11012.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11012.log
+[22 Sep 2020 12:36:45.644]  |Log File PROCESS_LOG_8948.log skipped because this file is associated with currently running process (8948). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8948.log
+[22 Sep 2020 12:36:45.644]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 01:58:10.179]  |Total tempFile count=2
+[22 Sep 2020 01:58:10.490]  |Temporary Folder ExtractedImages Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\ExtractedImages
+
+[22 Sep 2020 01:58:10.490]  |Total logFile count=5
+[22 Sep 2020 01:58:10.490]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 01:58:10.490]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 01:58:10.490]  |Log File PROCESS_LOG_13372.log skipped because this file is associated with currently running process (13372). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13372.log
+[22 Sep 2020 01:58:10.640]  |Outdated log File PROCESS_LOG_8948.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8948.log
+[22 Sep 2020 01:58:10.680]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:04:02.779]  |Total tempFile count=2
+
+[22 Sep 2020 02:04:02.789]  |Total logFile count=5
+[22 Sep 2020 02:04:02.789]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:04:02.789]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:04:02.829]  |Outdated log File PROCESS_LOG_13372.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13372.log
+[22 Sep 2020 02:04:02.829]  |Log File PROCESS_LOG_816.log skipped because this file is associated with currently running process (816). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_816.log
+[22 Sep 2020 02:04:02.829]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:05:42.976]  |Total tempFile count=2
+
+[22 Sep 2020 02:05:42.976]  |Total logFile count=5
+[22 Sep 2020 02:05:42.976]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:05:42.976]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:05:42.976]  |Log File PROCESS_LOG_4572.log skipped because this file is associated with currently running process (4572). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_4572.log
+[22 Sep 2020 02:05:42.986]  |Outdated log File PROCESS_LOG_816.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_816.log
+[22 Sep 2020 02:05:42.986]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
