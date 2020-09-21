@@ -1,0 +1,839 @@
+[22 Sep 2020 02:16:20.132]  |void initAppProperty(JSONObject JSONObj) Method from initialize[SharedResources.java:54] called with [null] at 2020-09-22 02:16:20.112
+[22 Sep 2020 02:16:20.232]  |void initAppProperty(JSONObject JSONObj) Method successfully executed within 110 milisecond.
+[22 Sep 2020 02:16:20.232]  |void launch() Method from <init>[Application.java:67] called with [] at 2020-09-22 02:16:20.232
+[22 Sep 2020 02:16:20.232]  |	 boolean IsEmpty(String Path) Method from launch[Application.java:90] called with [I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\18393806] at 2020-09-22 02:16:20.232
+[22 Sep 2020 02:16:20.232]  |	 boolean IsEmpty(String Path) Method successfully executed within 0 milisecond and returned  false.
+[22 Sep 2020 02:16:20.232]  |	 int lastFileName(String dirPath) Method from launch[Application.java:93] called with [I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\18393806] at 2020-09-22 02:16:20.232
+[22 Sep 2020 02:16:20.242]  |	 int lastFileName(String dirPath) Method successfully executed within 10 milisecond and returned  1.
+[22 Sep 2020 02:16:20.263]  |	 void SensorGUIInit() Method from <init>[SensorGUI.java:84] called with [] at 2020-09-22 02:16:20.263
+[22 Sep 2020 02:16:20.806]  |	 void SensorGUIInit() Method successfully executed within 543 milisecond.
+[22 Sep 2020 02:16:20.826]  |void launch() Method successfully executed within 594 milisecond.
+[22 Sep 2020 02:16:20.836]  |void clearFilesTask() Method from run[Application.java:135] called with [] at 2020-09-22 02:16:20.836
+[22 Sep 2020 02:16:20.836]  |void clearFilesTask() Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:20.856]  |void removeTempFiles(File dir,long min) Method from run[Library.java:800] called with [I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\18393806, 30] at 2020-09-22 02:16:20.856
+[22 Sep 2020 02:16:20.856]  |void removeTempFiles(File dir,long min) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:20.856]  |void removeTempFiles(File dir,long min) Method from run[Library.java:800] called with [I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\ExtractedImages, 30] at 2020-09-22 02:16:20.856
+[22 Sep 2020 02:16:20.856]  |void removeTempFiles(File dir,long min) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.071]  |void ActionGUIInit(List tabs) Method from <init>[ActionGUI.java:74] called with [[Bug]] at 2020-09-22 02:16:23.071
+[22 Sep 2020 02:16:23.140]  |	 void BugPanelInit(JTabbedPane TabbledPanel) Method from <init>[BugPanel.java:99] called with [javax.swing.JTabbedPane[,12,13,551x324,invalid,layout=javax.swing.plaf.basic.BasicTabbedPaneUI$TabbedPaneScrollLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.MatteBorder@1d0f7dc8,flags=50332008,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=550,height=260],haveRegistered=false,tabPlacement=LEFT]] at 2020-09-22 02:16:23.14
+[22 Sep 2020 02:16:23.140]  |	 void BugPanelInit(JTabbedPane TabbledPanel) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.140]  |	 void stateChanged(ChangeEvent arg0) Method from fireStateChanged[null:-1] called with [javax.swing.event.ChangeEvent[source=javax.swing.JTabbedPane[,12,13,551x324,invalid,layout=javax.swing.plaf.basic.BasicTabbedPaneUI$TabbedPaneScrollLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.MatteBorder@1d0f7dc8,flags=50332008,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=550,height=260],haveRegistered=false,tabPlacement=LEFT]]] at 2020-09-22 02:16:23.14
+[22 Sep 2020 02:16:23.140]  |	 	 void loadMenu() Method from stateChanged[ActionGUI.java:561] called with [] at 2020-09-22 02:16:23.14
+[22 Sep 2020 02:16:23.210]  |	 	 	 void setPlaceholder(String s) Method from loadMenu[BugPanel.java:173] called with [ Search...] at 2020-09-22 02:16:23.21
+[22 Sep 2020 02:16:23.210]  |	 	 	 void setPlaceholder(String s) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.498]  |	 	 void loadMenu() Method successfully executed within 358 milisecond.
+[22 Sep 2020 02:16:23.498]  |	 	 void loadBugs() Method from stateChanged[ActionGUI.java:562] called with [] at 2020-09-22 02:16:23.498
+[22 Sep 2020 02:16:23.518]  |	 	 	 void showIssues(String state) Method from loadBugs[BugPanel.java:663] called with [all] at 2020-09-22 02:16:23.518
+[22 Sep 2020 02:16:23.518]  |	 	 	 void showIssues(String state) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.518]  |	 	 void loadBugs() Method successfully executed within 20 milisecond.
+[22 Sep 2020 02:16:23.518]  |	 void stateChanged(ChangeEvent arg0) Method successfully executed within 378 milisecond.
+[22 Sep 2020 02:16:23.558]  |void ActionGUIInit(List tabs) Method successfully executed within 487 milisecond.
+[22 Sep 2020 02:16:23.717]  |void setText(String text) Method from <init>[ToastMsg.java:29] called with [Please wait] at 2020-09-22 02:16:23.717
+[22 Sep 2020 02:16:23.717]  |	 void setEndLocation(int x,int y) Method from setText[ToastMsg.java:37] called with [0, 0] at 2020-09-22 02:16:23.717
+[22 Sep 2020 02:16:23.717]  |	 void setEndLocation(int x,int y) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.727]  |void setText(String text) Method successfully executed within 10 milisecond.
+[22 Sep 2020 02:16:23.727]  |void setLocation(int x,int y) Method from run[BugPanel.java:682] called with [908, 439] at 2020-09-22 02:16:23.727
+[22 Sep 2020 02:16:23.727]  |void setLocation(int x,int y) Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.727]  |void showToast() Method from run[BugPanel.java:683] called with [] at 2020-09-22 02:16:23.727
+[22 Sep 2020 02:16:23.727]  |void showToast() Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:23.727]  |StringBuilder HttpGet(String URL) Method from run[BugPanel.java:685] called with [https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues?state=all] at 2020-09-22 02:16:23.727
+[22 Sep 2020 02:16:23.737]  |	 void terminationLogic() Method from run[ToastMsg.java:94] called with [] at 2020-09-22 02:16:23.737
+[22 Sep 2020 02:16:24.532]  |	 StringBuilder HttpGet(String URL) Method successfully executed within 785 milisecond and returned  [{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/15","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/15/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/15/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/15/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/15","id":705898379,"node_id":"MDU6SXNzdWU3MDU4OTgzNzk=","number":15,"title":"tdthf","user":{"login":"CaptureEasyUser","id":71650165,"node_id":"MDQ6VXNlcjcxNjUwMTY1","avatar_url":"https://avatars2.githubusercontent.com/u/71650165?v=4","gravatar_id":"","url":"https://api.github.com/users/CaptureEasyUser","html_url":"https://github.com/CaptureEasyUser","followers_url":"https://api.github.com/users/CaptureEasyUser/followers","following_url":"https://api.github.com/users/CaptureEasyUser/following{/other_user}","gists_url":"https://api.github.com/users/CaptureEasyUser/gists{/gist_id}","starred_url":"https://api.github.com/users/CaptureEasyUser/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/CaptureEasyUser/subscriptions","organizations_url":"https://api.github.com/users/CaptureEasyUser/orgs","repos_url":"https://api.github.com/users/CaptureEasyUser/repos","events_url":"https://api.github.com/users/CaptureEasyUser/events{/privacy}","received_events_url":"https://api.github.com/users/CaptureEasyUser/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":1,"created_at":"2020-09-21T20:36:06Z","updated_at":"2020-09-21T20:43:01Z","closed_at":null,"author_association":"CONTRIBUTOR","active_lock_reason":null,"body":"This Issue faced by User(24360)tt","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/14","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/14/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/14/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/14/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/14","id":705802670,"node_id":"MDU6SXNzdWU3MDU4MDI2NzA=","number":14,"title":"ok google ","user":{"login":"CaptureEasyUser","id":71650165,"node_id":"MDQ6VXNlcjcxNjUwMTY1","avatar_url":"https://avatars2.githubusercontent.com/u/71650165?v=4","gravatar_id":"","url":"https://api.github.com/users/CaptureEasyUser","html_url":"https://github.com/CaptureEasyUser","followers_url":"https://api.github.com/users/CaptureEasyUser/followers","following_url":"https://api.github.com/users/CaptureEasyUser/following{/other_user}","gists_url":"https://api.github.com/users/CaptureEasyUser/gists{/gist_id}","starred_url":"https://api.github.com/users/CaptureEasyUser/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/CaptureEasyUser/subscriptions","organizations_url":"https://api.github.com/users/CaptureEasyUser/orgs","repos_url":"https://api.github.com/users/CaptureEasyUser/repos","events_url":"https://api.github.com/users/CaptureEasyUser/events{/privacy}","received_events_url":"https://api.github.com/users/CaptureEasyUser/received_events","type":"User","site_admin":false},"labels":[],"state":"closed","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":1,"created_at":"2020-09-21T17:57:28Z","updated_at":"2020-09-21T20:17:07Z","closed_at":"2020-09-21T18:48:27Z","author_association":"CONTRIBUTOR","active_lock_reason":null,"body":"facing issues","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/13","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/13/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/13/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/13/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/13","id":705781548,"node_id":"MDU6SXNzdWU3MDU3ODE1NDg=","number":13,"title":"test","user":{"login":"CaptureEasyUser","id":71650165,"node_id":"MDQ6VXNlcjcxNjUwMTY1","avatar_url":"https://avatars2.githubusercontent.com/u/71650165?v=4","gravatar_id":"","url":"https://api.github.com/users/CaptureEasyUser","html_url":"https://github.com/CaptureEasyUser","followers_url":"https://api.github.com/users/CaptureEasyUser/followers","following_url":"https://api.github.com/users/CaptureEasyUser/following{/other_user}","gists_url":"https://api.github.com/users/CaptureEasyUser/gists{/gist_id}","starred_url":"https://api.github.com/users/CaptureEasyUser/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/CaptureEasyUser/subscriptions","organizations_url":"https://api.github.com/users/CaptureEasyUser/orgs","repos_url":"https://api.github.com/users/CaptureEasyUser/repos","events_url":"https://api.github.com/users/CaptureEasyUser/events{/privacy}","received_events_url":"https://api.github.com/users/CaptureEasyUser/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":3,"created_at":"2020-09-21T17:22:45Z","updated_at":"2020-09-21T19:50:32Z","closed_at":null,"author_association":"CONTRIBUTOR","active_lock_reason":null,"body":"Test\r\n[PROCESS_LOG_12592.log](https://github.com/souvik-sarkar-98/CaptureEasy/files/5257017/PROCESS_LOG_12592.log)\r\n","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/12","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/12/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/12/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/12/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/pull/12","id":705756463,"node_id":"MDExOlB1bGxSZXF1ZXN0NDkwNDI3Mzgw","number":12,"title":"update","user":{"login":"CaptureEasyUser","id":71650165,"node_id":"MDQ6VXNlcjcxNjUwMTY1","avatar_url":"https://avatars2.githubusercontent.com/u/71650165?v=4","gravatar_id":"","url":"https://api.github.com/users/CaptureEasyUser","html_url":"https://github.com/CaptureEasyUser","followers_url":"https://api.github.com/users/CaptureEasyUser/followers","following_url":"https://api.github.com/users/CaptureEasyUser/following{/other_user}","gists_url":"https://api.github.com/users/CaptureEasyUser/gists{/gist_id}","starred_url":"https://api.github.com/users/CaptureEasyUser/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/CaptureEasyUser/subscriptions","organizations_url":"https://api.github.com/users/CaptureEasyUser/orgs","repos_url":"https://api.github.com/users/CaptureEasyUser/repos","events_url":"https://api.github.com/users/CaptureEasyUser/events{/privacy}","received_events_url":"https://api.github.com/users/CaptureEasyUser/received_events","type":"User","site_admin":false},"labels":[],"state":"closed","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-21T16:43:04Z","updated_at":"2020-09-21T16:44:22Z","closed_at":"2020-09-21T16:44:21Z","author_association":"CONTRIBUTOR","active_lock_reason":null,"pull_request":{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/pulls/12","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/pull/12","diff_url":"https://github.com/souvik-sarkar-98/CaptureEasy/pull/12.diff","patch_url":"https://github.com/souvik-sarkar-98/CaptureEasy/pull/12.patch"},"body":"","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/5","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/5/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/5/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/5/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/5","id":694258160,"node_id":"MDU6SXNzdWU2OTQyNTgxNjA=","number":5,"title":"ok google","user":{"login":"souvik-sarkar-98","id":59085419,"node_id":"MDQ6VXNlcjU5MDg1NDE5","avatar_url":"https://avatars2.githubusercontent.com/u/59085419?v=4","gravatar_id":"","url":"https://api.github.com/users/souvik-sarkar-98","html_url":"https://github.com/souvik-sarkar-98","followers_url":"https://api.github.com/users/souvik-sarkar-98/followers","following_url":"https://api.github.com/users/souvik-sarkar-98/following{/other_user}","gists_url":"https://api.github.com/users/souvik-sarkar-98/gists{/gist_id}","starred_url":"https://api.github.com/users/souvik-sarkar-98/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/souvik-sarkar-98/subscriptions","organizations_url":"https://api.github.com/users/souvik-sarkar-98/orgs","repos_url":"https://api.github.com/users/souvik-sarkar-98/repos","events_url":"https://api.github.com/users/souvik-sarkar-98/events{/privacy}","received_events_url":"https://api.github.com/users/souvik-sarkar-98/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-06T05:34:05Z","updated_at":"2020-09-06T05:38:04Z","closed_at":null,"author_association":"OWNER","active_lock_reason":null,"body":"facing issues","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/4","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/4/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/4/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/4/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/4","id":694252792,"node_id":"MDU6SXNzdWU2OTQyNTI3OTI=","number":4,"title":"ok google","user":{"login":"souvik-sarkar-98","id":59085419,"node_id":"MDQ6VXNlcjU5MDg1NDE5","avatar_url":"https://avatars2.githubusercontent.com/u/59085419?v=4","gravatar_id":"","url":"https://api.github.com/users/souvik-sarkar-98","html_url":"https://github.com/souvik-sarkar-98","followers_url":"https://api.github.com/users/souvik-sarkar-98/followers","following_url":"https://api.github.com/users/souvik-sarkar-98/following{/other_user}","gists_url":"https://api.github.com/users/souvik-sarkar-98/gists{/gist_id}","starred_url":"https://api.github.com/users/souvik-sarkar-98/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/souvik-sarkar-98/subscriptions","organizations_url":"https://api.github.com/users/souvik-sarkar-98/orgs","repos_url":"https://api.github.com/users/souvik-sarkar-98/repos","events_url":"https://api.github.com/users/souvik-sarkar-98/events{/privacy}","received_events_url":"https://api.github.com/users/souvik-sarkar-98/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-06T05:04:48Z","updated_at":"2020-09-06T05:04:48Z","closed_at":null,"author_association":"OWNER","active_lock_reason":null,"body":"facing issues","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/3","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/3/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/3/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/3/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/3","id":694251186,"node_id":"MDU6SXNzdWU2OTQyNTExODY=","number":3,"title":"ok google","user":{"login":"souvik-sarkar-98","id":59085419,"node_id":"MDQ6VXNlcjU5MDg1NDE5","avatar_url":"https://avatars2.githubusercontent.com/u/59085419?v=4","gravatar_id":"","url":"https://api.github.com/users/souvik-sarkar-98","html_url":"https://github.com/souvik-sarkar-98","followers_url":"https://api.github.com/users/souvik-sarkar-98/followers","following_url":"https://api.github.com/users/souvik-sarkar-98/following{/other_user}","gists_url":"https://api.github.com/users/souvik-sarkar-98/gists{/gist_id}","starred_url":"https://api.github.com/users/souvik-sarkar-98/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/souvik-sarkar-98/subscriptions","organizations_url":"https://api.github.com/users/souvik-sarkar-98/orgs","repos_url":"https://api.github.com/users/souvik-sarkar-98/repos","events_url":"https://api.github.com/users/souvik-sarkar-98/events{/privacy}","received_events_url":"https://api.github.com/users/souvik-sarkar-98/received_events","type":"User","site_admin":false},"labels":[],"state":"closed","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":1,"created_at":"2020-09-06T04:55:26Z","updated_at":"2020-09-06T04:58:52Z","closed_at":"2020-09-06T04:58:47Z","author_association":"OWNER","active_lock_reason":null,"body":"facing issues","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/2","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/2/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/2/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/2/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/2","id":694250230,"node_id":"MDU6SXNzdWU2OTQyNTAyMzA=","number":2,"title":"Imported from some other system","user":{"login":"souvik-sarkar-98","id":59085419,"node_id":"MDQ6VXNlcjU5MDg1NDE5","avatar_url":"https://avatars2.githubusercontent.com/u/59085419?v=4","gravatar_id":"","url":"https://api.github.com/users/souvik-sarkar-98","html_url":"https://github.com/souvik-sarkar-98","followers_url":"https://api.github.com/users/souvik-sarkar-98/followers","following_url":"https://api.github.com/users/souvik-sarkar-98/following{/other_user}","gists_url":"https://api.github.com/users/souvik-sarkar-98/gists{/gist_id}","starred_url":"https://api.github.com/users/souvik-sarkar-98/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/souvik-sarkar-98/subscriptions","organizations_url":"https://api.github.com/users/souvik-sarkar-98/orgs","repos_url":"https://api.github.com/users/souvik-sarkar-98/repos","events_url":"https://api.github.com/users/souvik-sarkar-98/events{/privacy}","received_events_url":"https://api.github.com/users/souvik-sarkar-98/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-06T04:49:21Z","updated_at":"2020-09-06T04:49:21Z","closed_at":null,"author_association":"OWNER","active_lock_reason":null,"body":"...","performed_via_github_app":null},{"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/1","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/1/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/1/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/1/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/1","id":694249945,"node_id":"MDU6SXNzdWU2OTQyNDk5NDU=","number":1,"title":"Imported from some other system","user":{"login":"souvik-sarkar-98","id":59085419,"node_id":"MDQ6VXNlcjU5MDg1NDE5","avatar_url":"https://avatars2.githubusercontent.com/u/59085419?v=4","gravatar_id":"","url":"https://api.github.com/users/souvik-sarkar-98","html_url":"https://github.com/souvik-sarkar-98","followers_url":"https://api.github.com/users/souvik-sarkar-98/followers","following_url":"https://api.github.com/users/souvik-sarkar-98/following{/other_user}","gists_url":"https://api.github.com/users/souvik-sarkar-98/gists{/gist_id}","starred_url":"https://api.github.com/users/souvik-sarkar-98/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/souvik-sarkar-98/subscriptions","organizations_url":"https://api.github.com/users/souvik-sarkar-98/orgs","repos_url":"https://api.github.com/users/souvik-sarkar-98/repos","events_url":"https://api.github.com/users/souvik-sarkar-98/events{/privacy}","received_events_url":"https://api.github.com/users/souvik-sarkar-98/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-06T04:47:51Z","updated_at":"2020-09-06T04:47:51Z","closed_at":null,"author_association":"OWNER","active_lock_reason":null,"body":null,"performed_via_github_app":null}]
+.
+[22 Sep 2020 02:16:24.602]  |void terminationLogic() Method successfully executed within 875 milisecond.
+[22 Sep 2020 02:16:24.742]  |void unloadMenu() Method from mouseClicked[BugPanel.java:224] called with [] at 2020-09-22 02:16:24.742
+[22 Sep 2020 02:16:24.742]  |void unloadMenu() Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:24.742]  |void unloadBugs() Method from mouseClicked[BugPanel.java:225] called with [] at 2020-09-22 02:16:24.742
+[22 Sep 2020 02:16:24.742]  |void unloadBugs() Method successfully executed within 0 milisecond.
+[22 Sep 2020 02:16:24.752]  |void loadNewBug() Method from mouseClicked[BugPanel.java:226] called with [] at 2020-09-22 02:16:24.752
+[22 Sep 2020 02:16:25.294]  |void loadNewBug() Method successfully executed within 542 milisecond.
+[22 Sep 2020 02:16:29.746]  |void PopUpInit(String title,String PopUpType,String text,String OkButton_Text,String cancelButton_Text) Method from <init>[PopUp.java:63] called with [Enter comment, comment, , Done, Cancel] at 2020-09-22 02:16:29.746
+[22 Sep 2020 02:16:29.806]  |void PopUpInit(String title,String PopUpType,String text,String OkButton_Text,String cancelButton_Text) Method successfully executed within 60 milisecond.
+[22 Sep 2020 02:16:34.051]  |JTextArea access$2(BugPanel arg0) Method from actionPerformed[BugPanel.java:501] called with [app.captureEasy.UI.BugPanel@642182a0] at 2020-09-22 02:16:34.051
+[22 Sep 2020 02:16:34.051]  |JTextArea access$2(BugPanel arg0) Method successfully executed within 0 milisecond and returned  javax.swing.JTextArea[,0,0,279x57,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@f3908da,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=false,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],colums=0,columWidth=0,rows=0,rowHeight=0,word=false,wrap=true].
+[22 Sep 2020 02:16:34.051]  |JTextArea access$2(BugPanel arg0) Method from actionPerformed[BugPanel.java:501] called with [app.captureEasy.UI.BugPanel@642182a0] at 2020-09-22 02:16:34.051
+[22 Sep 2020 02:16:34.051]  |JTextArea access$2(BugPanel arg0) Method successfully executed within 0 milisecond and returned  javax.swing.JTextArea[,0,0,279x57,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@f3908da,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=false,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],colums=0,columWidth=0,rows=0,rowHeight=0,word=false,wrap=true].
+[22 Sep 2020 02:16:34.051]  |int getUniqueId() Method from actionPerformed[BugPanel.java:501] called with [] at 2020-09-22 02:16:34.051
+[22 Sep 2020 02:16:34.051]  |int getUniqueId() Method successfully executed within 0 milisecond and returned  24360.
+[22 Sep 2020 02:16:34.051]  |int getUniqueId() Method from actionPerformed[BugPanel.java:504] called with [] at 2020-09-22 02:16:34.051
+[22 Sep 2020 02:16:34.051]  |int getUniqueId() Method successfully executed within 0 milisecond and returned  24360.
+[22 Sep 2020 02:16:34.061]  |JSONArray access$3(BugPanel arg0) Method from actionPerformed[BugPanel.java:506] called with [app.captureEasy.UI.BugPanel@642182a0] at 2020-09-22 02:16:34.051
+[22 Sep 2020 02:16:34.061]  |JSONArray access$3(BugPanel arg0) Method successfully executed within 10 milisecond and returned  [].
+[22 Sep 2020 02:16:40.370]  |JButton access$1(BugPanel arg0) Method from actionPerformed[BugPanel.java:446] called with [app.captureEasy.UI.BugPanel@642182a0] at 2020-09-22 02:16:40.36
+[22 Sep 2020 02:16:40.370]  |JButton access$1(BugPanel arg0) Method successfully executed within 10 milisecond and returned  javax.swing.JButton[,369,200,30x35,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@5088882e,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@10de3937,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true].
+[22 Sep 2020 02:16:46.330]  |JButton access$1(BugPanel arg0) Method from actionPerformed[BugPanel.java:446] called with [app.captureEasy.UI.BugPanel@642182a0] at 2020-09-22 02:16:46.33
+[22 Sep 2020 02:16:46.330]  |JButton access$1(BugPanel arg0) Method successfully executed within 0 milisecond and returned  javax.swing.JButton[,369,200,30x35,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@5088882e,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@10de3937,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true].
+[22 Sep 2020 02:16:47.243]  |boolean validateBug() Method from actionPerformed[BugPanel.java:350] called with [] at 2020-09-22 02:16:47.243
+[22 Sep 2020 02:16:47.244]  |boolean validateBug() Method successfully executed within 1 milisecond and returned  true.
+[22 Sep 2020 02:16:47.244]  |int submitBug() Method from actionPerformed[BugPanel.java:351] called with [] at 2020-09-22 02:16:47.244
+[22 Sep 2020 02:16:47.244]  |	 int getUniqueId() Method from submitBug[BugPanel.java:557] called with [] at 2020-09-22 02:16:47.244
+[22 Sep 2020 02:16:47.244]  |	 int getUniqueId() Method successfully executed within 0 milisecond and returned  24360.
+[22 Sep 2020 02:16:47.244]  |	 StringBuilder HttpPost(String URL,HashMap headers,String body) Method from submitBug[BugPanel.java:562] called with [https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues, {Authorization=Token a2aa3b1bcee82cef0602f93ca98cab2ce7ea01a8, Accept=application/vnd.github.v3+json}, {"title": "wqwqwss","body": "******* This Issue faced by User(24360) *******qwsqwwq","labels":["24360"]}] at 2020-09-22 02:16:47.244
+[22 Sep 2020 02:16:48.194]  |	 StringBuilder HttpPost(String URL,HashMap headers,String body) Method successfully executed within 950 milisecond and returned  {"url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/16","repository_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy","labels_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/16/labels{/name}","comments_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/16/comments","events_url":"https://api.github.com/repos/souvik-sarkar-98/CaptureEasy/issues/16/events","html_url":"https://github.com/souvik-sarkar-98/CaptureEasy/issues/16","id":705905167,"node_id":"MDU6SXNzdWU3MDU5MDUxNjc=","number":16,"title":"wqwqwss","user":{"login":"CaptureEasyUser","id":71650165,"node_id":"MDQ6VXNlcjcxNjUwMTY1","avatar_url":"https://avatars2.githubusercontent.com/u/71650165?v=4","gravatar_id":"","url":"https://api.github.com/users/CaptureEasyUser","html_url":"https://github.com/CaptureEasyUser","followers_url":"https://api.github.com/users/CaptureEasyUser/followers","following_url":"https://api.github.com/users/CaptureEasyUser/following{/other_user}","gists_url":"https://api.github.com/users/CaptureEasyUser/gists{/gist_id}","starred_url":"https://api.github.com/users/CaptureEasyUser/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/CaptureEasyUser/subscriptions","organizations_url":"https://api.github.com/users/CaptureEasyUser/orgs","repos_url":"https://api.github.com/users/CaptureEasyUser/repos","events_url":"https://api.github.com/users/CaptureEasyUser/events{/privacy}","received_events_url":"https://api.github.com/users/CaptureEasyUser/received_events","type":"User","site_admin":false},"labels":[],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-09-21T20:46:47Z","updated_at":"2020-09-21T20:46:47Z","closed_at":null,"author_association":"CONTRIBUTOR","active_lock_reason":null,"body":"******* This Issue faced by User(24360) *******qwsqwwq","closed_by":null,"performed_via_github_app":null}
+.
+[22 Sep 2020 02:16:48.354]  |	 String uploadFilesOnGitHub(String destPath,String contents) Method from submitBug[BugPanel.java:566] called with [https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log, 
+[22 Sep 2020 12:15:21.389]  |Total tempFile count=2
+
+[22 Sep 2020 12:15:21.398]  |Total logFile count=7
+[22 Sep 2020 12:15:21.438]  |Outdated log File CLEAR_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.439]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:15:21.553]  |Outdated log File ERROR_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.553]  |Log File PROCESS_LOG_13476.log skipped because this file is associated with currently running process (13476). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13476.log
+[22 Sep 2020 12:15:21.653]  |Outdated log File PROCESS_LOG_8308.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8308.log
+[22 Sep 2020 12:15:21.654]  |Outdated log File SOFTWAREUPDATE_LOG_2020-09-21.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-21.log
+[22 Sep 2020 12:15:21.655]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:16:23.110]  |Total tempFile count=2
+
+[22 Sep 2020 12:16:23.117]  |Total logFile count=5
+[22 Sep 2020 12:16:23.118]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:16:23.118]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:16:23.182]  |Outdated log File PROCESS_LOG_13476.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13476.log
+[22 Sep 2020 12:16:23.188]  |Log File PROCESS_LOG_5088.log skipped because this file is associated with currently running process (5088). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_5088.log
+[22 Sep 2020 12:16:23.191]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:17:05.670]  |Total tempFile count=2
+
+[22 Sep 2020 12:17:05.719]  |Total logFile count=5
+[22 Sep 2020 12:17:05.719]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:17:05.720]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:17:05.721]  |Log File PROCESS_LOG_11508.log skipped because this file is associated with currently running process (11508). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11508.log
+[22 Sep 2020 12:17:05.729]  |Outdated log File PROCESS_LOG_5088.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_5088.log
+[22 Sep 2020 12:17:05.729]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:22:01.199]  |Total tempFile count=2
+
+[22 Sep 2020 12:22:01.234]  |Total logFile count=5
+[22 Sep 2020 12:22:01.239]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:22:01.242]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:22:01.252]  |Outdated log File PROCESS_LOG_11508.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11508.log
+[22 Sep 2020 12:22:01.252]  |Log File PROCESS_LOG_11648.log skipped because this file is associated with currently running process (11648). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11648.log
+[22 Sep 2020 12:22:01.263]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:31:03.839]  |Total tempFile count=2
+
+[22 Sep 2020 12:31:03.859]  |Total logFile count=5
+[22 Sep 2020 12:31:03.861]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:31:03.862]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:31:03.872]  |Outdated log File PROCESS_LOG_11648.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11648.log
+[22 Sep 2020 12:31:03.872]  |Log File PROCESS_LOG_8332.log skipped because this file is associated with currently running process (8332). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8332.log
+[22 Sep 2020 12:31:03.872]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:32:34.426]  |Total tempFile count=2
+
+[22 Sep 2020 12:32:34.431]  |Total logFile count=5
+[22 Sep 2020 12:32:34.432]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:32:34.432]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:32:34.432]  |Log File PROCESS_LOG_10580.log skipped because this file is associated with currently running process (10580). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_10580.log
+[22 Sep 2020 12:32:34.447]  |Outdated log File PROCESS_LOG_8332.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8332.log
+[22 Sep 2020 12:32:34.449]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:34:32.973]  |Total tempFile count=2
+
+[22 Sep 2020 12:34:32.979]  |Total logFile count=5
+[22 Sep 2020 12:34:32.980]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:34:32.982]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:34:32.992]  |Outdated log File PROCESS_LOG_10580.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_10580.log
+[22 Sep 2020 12:34:32.992]  |Log File PROCESS_LOG_17384.log skipped because this file is associated with currently running process (17384). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_17384.log
+[22 Sep 2020 12:34:32.993]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:35:55.674]  |Total tempFile count=2
+
+[22 Sep 2020 12:35:55.679]  |Total logFile count=5
+[22 Sep 2020 12:35:55.680]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:35:55.680]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:35:55.680]  |Log File PROCESS_LOG_11012.log skipped because this file is associated with currently running process (11012). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11012.log
+[22 Sep 2020 12:35:55.688]  |Outdated log File PROCESS_LOG_17384.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_17384.log
+[22 Sep 2020 12:35:55.688]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 12:36:45.628]  |Total tempFile count=2
+
+[22 Sep 2020 12:36:45.628]  |Total logFile count=5
+[22 Sep 2020 12:36:45.638]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 12:36:45.639]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 12:36:45.644]  |Outdated log File PROCESS_LOG_11012.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_11012.log
+[22 Sep 2020 12:36:45.644]  |Log File PROCESS_LOG_8948.log skipped because this file is associated with currently running process (8948). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8948.log
+[22 Sep 2020 12:36:45.644]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 01:58:10.179]  |Total tempFile count=2
+[22 Sep 2020 01:58:10.490]  |Temporary Folder ExtractedImages Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Temp\ExtractedImages
+
+[22 Sep 2020 01:58:10.490]  |Total logFile count=5
+[22 Sep 2020 01:58:10.490]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 01:58:10.490]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 01:58:10.490]  |Log File PROCESS_LOG_13372.log skipped because this file is associated with currently running process (13372). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13372.log
+[22 Sep 2020 01:58:10.640]  |Outdated log File PROCESS_LOG_8948.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_8948.log
+[22 Sep 2020 01:58:10.680]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:04:02.779]  |Total tempFile count=2
+
+[22 Sep 2020 02:04:02.789]  |Total logFile count=5
+[22 Sep 2020 02:04:02.789]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:04:02.789]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:04:02.829]  |Outdated log File PROCESS_LOG_13372.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_13372.log
+[22 Sep 2020 02:04:02.829]  |Log File PROCESS_LOG_816.log skipped because this file is associated with currently running process (816). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_816.log
+[22 Sep 2020 02:04:02.829]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:05:42.976]  |Total tempFile count=2
+
+[22 Sep 2020 02:05:42.976]  |Total logFile count=5
+[22 Sep 2020 02:05:42.976]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:05:42.976]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:05:42.976]  |Log File PROCESS_LOG_4572.log skipped because this file is associated with currently running process (4572). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_4572.log
+[22 Sep 2020 02:05:42.986]  |Outdated log File PROCESS_LOG_816.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_816.log
+[22 Sep 2020 02:05:42.986]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:14:36.082]  |Total tempFile count=2
+
+[22 Sep 2020 02:14:36.125]  |Total logFile count=5
+[22 Sep 2020 02:14:36.125]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:14:36.125]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:14:36.125]  |Log File PROCESS_LOG_12632.log skipped because this file is associated with currently running process (12632). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_12632.log
+[22 Sep 2020 02:14:36.135]  |Outdated log File PROCESS_LOG_4572.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_4572.log
+[22 Sep 2020 02:14:36.135]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+
+[22 Sep 2020 02:16:20.856]  |Total tempFile count=2
+
+[22 Sep 2020 02:16:20.856]  |Total logFile count=5
+[22 Sep 2020 02:16:20.856]  |Log File CLEAR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\CLEAR_LOG_2020-09-22.log
+[22 Sep 2020 02:16:20.856]  |Log File ERROR_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\ERROR_LOG_2020-09-22.log
+[22 Sep 2020 02:16:20.866]  |Outdated log File PROCESS_LOG_12632.log Successfully deleted. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_12632.log
+[22 Sep 2020 02:16:20.866]  |Log File PROCESS_LOG_14688.log skipped because this file is associated with currently running process (14688). FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\PROCESS_LOG_14688.log
+[22 Sep 2020 02:16:20.866]  |Log File SOFTWAREUPDATE_LOG_2020-09-22.log skipped. FilePath : I:\Eclipse-Workspace\Eclipse_Workstation\CaptureEasy\Resources\Nil\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+] at 2020-09-22 02:16:48.354
+[22 Sep 2020 02:16:48.364]  |	 	 int getUniqueId() Method from uploadFilesOnGitHub[Library.java:151] called with [] at 2020-09-22 02:16:48.364
+[22 Sep 2020 02:16:48.364]  |	 	 int getUniqueId() Method successfully executed within 0 milisecond and returned  24360.
+[22 Sep 2020 02:16:48.364]  |	 	 StringBuilder HttpPut(String URL,HashMap headers,String body) Method from uploadFilesOnGitHub[Library.java:153] called with [https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log, {Authorization=Token a2aa3b1bcee82cef0602f93ca98cab2ce7ea01a8, =, Accept=application/vnd.github.v3+json}, {"message": "File Upload request","committer": {"name": "User(24360)","email": "Dummy"},"content": "ClsyMiBTZXAgMjAyMCAxMjoxNToyMS4zODldICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgoKWzIyIFNlcCAyMDIwIDEyOjE1OjIxLjM5OF0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTcKWzIyIFNlcCAyMDIwIDEyOjE1OjIxLjQzOF0gIHxPdXRkYXRlZCBsb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMS5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjEubG9nClsyMiBTZXAgMjAyMCAxMjoxNToyMS40MzldICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAxMjoxNToyMS41NTNdICB8T3V0ZGF0ZWQgbG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjEubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXEVSUk9SX0xPR18yMDIwLTA5LTIxLmxvZwpbMjIgU2VwIDIwMjAgMTI6MTU6MjEuNTUzXSAgfExvZyBGaWxlIFBST0NFU1NfTE9HXzEzNDc2LmxvZyBza2lwcGVkIGJlY2F1c2UgdGhpcyBmaWxlIGlzIGFzc29jaWF0ZWQgd2l0aCBjdXJyZW50bHkgcnVubmluZyBwcm9jZXNzICgxMzQ3NikuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfMTM0NzYubG9nClsyMiBTZXAgMjAyMCAxMjoxNToyMS42NTNdICB8T3V0ZGF0ZWQgbG9nIEZpbGUgUFJPQ0VTU19MT0dfODMwOC5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfODMwOC5sb2cKWzIyIFNlcCAyMDIwIDEyOjE1OjIxLjY1NF0gIHxPdXRkYXRlZCBsb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMS5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjEubG9nClsyMiBTZXAgMjAyMCAxMjoxNToyMS42NTVdICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCgpbMjIgU2VwIDIwMjAgMTI6MTY6MjMuMTEwXSAgfFRvdGFsIHRlbXBGaWxlIGNvdW50PTIKClsyMiBTZXAgMjAyMCAxMjoxNjoyMy4xMTddICB8VG90YWwgbG9nRmlsZSBjb3VudD01ClsyMiBTZXAgMjAyMCAxMjoxNjoyMy4xMThdICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAxMjoxNjoyMy4xMThdICB8TG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcRVJST1JfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAxMjoxNjoyMy4xODJdICB8T3V0ZGF0ZWQgbG9nIEZpbGUgUFJPQ0VTU19MT0dfMTM0NzYubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzEzNDc2LmxvZwpbMjIgU2VwIDIwMjAgMTI6MTY6MjMuMTg4XSAgfExvZyBGaWxlIFBST0NFU1NfTE9HXzUwODgubG9nIHNraXBwZWQgYmVjYXVzZSB0aGlzIGZpbGUgaXMgYXNzb2NpYXRlZCB3aXRoIGN1cnJlbnRseSBydW5uaW5nIHByb2Nlc3MgKDUwODgpLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzUwODgubG9nClsyMiBTZXAgMjAyMCAxMjoxNjoyMy4xOTFdICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCgpbMjIgU2VwIDIwMjAgMTI6MTc6MDUuNjcwXSAgfFRvdGFsIHRlbXBGaWxlIGNvdW50PTIKClsyMiBTZXAgMjAyMCAxMjoxNzowNS43MTldICB8VG90YWwgbG9nRmlsZSBjb3VudD01ClsyMiBTZXAgMjAyMCAxMjoxNzowNS43MTldICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAxMjoxNzowNS43MjBdICB8TG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcRVJST1JfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAxMjoxNzowNS43MjFdICB8TG9nIEZpbGUgUFJPQ0VTU19MT0dfMTE1MDgubG9nIHNraXBwZWQgYmVjYXVzZSB0aGlzIGZpbGUgaXMgYXNzb2NpYXRlZCB3aXRoIGN1cnJlbnRseSBydW5uaW5nIHByb2Nlc3MgKDExNTA4KS4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR18xMTUwOC5sb2cKWzIyIFNlcCAyMDIwIDEyOjE3OjA1LjcyOV0gIHxPdXRkYXRlZCBsb2cgRmlsZSBQUk9DRVNTX0xPR181MDg4LmxvZyBTdWNjZXNzZnVsbHkgZGVsZXRlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR181MDg4LmxvZwpbMjIgU2VwIDIwMjAgMTI6MTc6MDUuNzI5XSAgfExvZyBGaWxlIFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZwoKWzIyIFNlcCAyMDIwIDEyOjIyOjAxLjE5OV0gIHxUb3RhbCB0ZW1wRmlsZSBjb3VudD0yCgpbMjIgU2VwIDIwMjAgMTI6MjI6MDEuMjM0XSAgfFRvdGFsIGxvZ0ZpbGUgY291bnQ9NQpbMjIgU2VwIDIwMjAgMTI6MjI6MDEuMjM5XSAgfExvZyBGaWxlIENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MjI6MDEuMjQyXSAgfExvZyBGaWxlIEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MjI6MDEuMjUyXSAgfE91dGRhdGVkIGxvZyBGaWxlIFBST0NFU1NfTE9HXzExNTA4LmxvZyBTdWNjZXNzZnVsbHkgZGVsZXRlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR18xMTUwOC5sb2cKWzIyIFNlcCAyMDIwIDEyOjIyOjAxLjI1Ml0gIHxMb2cgRmlsZSBQUk9DRVNTX0xPR18xMTY0OC5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoMTE2NDgpLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzExNjQ4LmxvZwpbMjIgU2VwIDIwMjAgMTI6MjI6MDEuMjYzXSAgfExvZyBGaWxlIFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZwoKWzIyIFNlcCAyMDIwIDEyOjMxOjAzLjgzOV0gIHxUb3RhbCB0ZW1wRmlsZSBjb3VudD0yCgpbMjIgU2VwIDIwMjAgMTI6MzE6MDMuODU5XSAgfFRvdGFsIGxvZ0ZpbGUgY291bnQ9NQpbMjIgU2VwIDIwMjAgMTI6MzE6MDMuODYxXSAgfExvZyBGaWxlIENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzE6MDMuODYyXSAgfExvZyBGaWxlIEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzE6MDMuODcyXSAgfE91dGRhdGVkIGxvZyBGaWxlIFBST0NFU1NfTE9HXzExNjQ4LmxvZyBTdWNjZXNzZnVsbHkgZGVsZXRlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR18xMTY0OC5sb2cKWzIyIFNlcCAyMDIwIDEyOjMxOjAzLjg3Ml0gIHxMb2cgRmlsZSBQUk9DRVNTX0xPR184MzMyLmxvZyBza2lwcGVkIGJlY2F1c2UgdGhpcyBmaWxlIGlzIGFzc29jaWF0ZWQgd2l0aCBjdXJyZW50bHkgcnVubmluZyBwcm9jZXNzICg4MzMyKS4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR184MzMyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzE6MDMuODcyXSAgfExvZyBGaWxlIFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFNPRlRXQVJFVVBEQVRFX0xPR18yMDIwLTA5LTIyLmxvZwoKWzIyIFNlcCAyMDIwIDEyOjMyOjM0LjQyNl0gIHxUb3RhbCB0ZW1wRmlsZSBjb3VudD0yCgpbMjIgU2VwIDIwMjAgMTI6MzI6MzQuNDMxXSAgfFRvdGFsIGxvZ0ZpbGUgY291bnQ9NQpbMjIgU2VwIDIwMjAgMTI6MzI6MzQuNDMyXSAgfExvZyBGaWxlIENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXENMRUFSX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzI6MzQuNDMyXSAgfExvZyBGaWxlIEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZyBza2lwcGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXEVSUk9SX0xPR18yMDIwLTA5LTIyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzI6MzQuNDMyXSAgfExvZyBGaWxlIFBST0NFU1NfTE9HXzEwNTgwLmxvZyBza2lwcGVkIGJlY2F1c2UgdGhpcyBmaWxlIGlzIGFzc29jaWF0ZWQgd2l0aCBjdXJyZW50bHkgcnVubmluZyBwcm9jZXNzICgxMDU4MCkuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfMTA1ODAubG9nClsyMiBTZXAgMjAyMCAxMjozMjozNC40NDddICB8T3V0ZGF0ZWQgbG9nIEZpbGUgUFJPQ0VTU19MT0dfODMzMi5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfODMzMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjMyOjM0LjQ0OV0gIHxMb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cKClsyMiBTZXAgMjAyMCAxMjozNDozMi45NzNdICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgoKWzIyIFNlcCAyMDIwIDEyOjM0OjMyLjk3OV0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTUKWzIyIFNlcCAyMDIwIDEyOjM0OjMyLjk4MF0gIHxMb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM0OjMyLjk4Ml0gIHxMb2cgRmlsZSBFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM0OjMyLjk5Ml0gIHxPdXRkYXRlZCBsb2cgRmlsZSBQUk9DRVNTX0xPR18xMDU4MC5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfMTA1ODAubG9nClsyMiBTZXAgMjAyMCAxMjozNDozMi45OTJdICB8TG9nIEZpbGUgUFJPQ0VTU19MT0dfMTczODQubG9nIHNraXBwZWQgYmVjYXVzZSB0aGlzIGZpbGUgaXMgYXNzb2NpYXRlZCB3aXRoIGN1cnJlbnRseSBydW5uaW5nIHByb2Nlc3MgKDE3Mzg0KS4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR18xNzM4NC5sb2cKWzIyIFNlcCAyMDIwIDEyOjM0OjMyLjk5M10gIHxMb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cKClsyMiBTZXAgMjAyMCAxMjozNTo1NS42NzRdICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgoKWzIyIFNlcCAyMDIwIDEyOjM1OjU1LjY3OV0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTUKWzIyIFNlcCAyMDIwIDEyOjM1OjU1LjY4MF0gIHxMb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM1OjU1LjY4MF0gIHxMb2cgRmlsZSBFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM1OjU1LjY4MF0gIHxMb2cgRmlsZSBQUk9DRVNTX0xPR18xMTAxMi5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoMTEwMTIpLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzExMDEyLmxvZwpbMjIgU2VwIDIwMjAgMTI6MzU6NTUuNjg4XSAgfE91dGRhdGVkIGxvZyBGaWxlIFBST0NFU1NfTE9HXzE3Mzg0LmxvZyBTdWNjZXNzZnVsbHkgZGVsZXRlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR18xNzM4NC5sb2cKWzIyIFNlcCAyMDIwIDEyOjM1OjU1LjY4OF0gIHxMb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cKClsyMiBTZXAgMjAyMCAxMjozNjo0NS42MjhdICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgoKWzIyIFNlcCAyMDIwIDEyOjM2OjQ1LjYyOF0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTUKWzIyIFNlcCAyMDIwIDEyOjM2OjQ1LjYzOF0gIHxMb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM2OjQ1LjYzOV0gIHxMb2cgRmlsZSBFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDEyOjM2OjQ1LjY0NF0gIHxPdXRkYXRlZCBsb2cgRmlsZSBQUk9DRVNTX0xPR18xMTAxMi5sb2cgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfMTEwMTIubG9nClsyMiBTZXAgMjAyMCAxMjozNjo0NS42NDRdICB8TG9nIEZpbGUgUFJPQ0VTU19MT0dfODk0OC5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoODk0OCkuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfODk0OC5sb2cKWzIyIFNlcCAyMDIwIDEyOjM2OjQ1LjY0NF0gIHxMb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cKClsyMiBTZXAgMjAyMCAwMTo1ODoxMC4xNzldICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgpbMjIgU2VwIDIwMjAgMDE6NTg6MTAuNDkwXSAgfFRlbXBvcmFyeSBGb2xkZXIgRXh0cmFjdGVkSW1hZ2VzIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxUZW1wXEV4dHJhY3RlZEltYWdlcwoKWzIyIFNlcCAyMDIwIDAxOjU4OjEwLjQ5MF0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTUKWzIyIFNlcCAyMDIwIDAxOjU4OjEwLjQ5MF0gIHxMb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDAxOjU4OjEwLjQ5MF0gIHxMb2cgRmlsZSBFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDAxOjU4OjEwLjQ5MF0gIHxMb2cgRmlsZSBQUk9DRVNTX0xPR18xMzM3Mi5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoMTMzNzIpLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzEzMzcyLmxvZwpbMjIgU2VwIDIwMjAgMDE6NTg6MTAuNjQwXSAgfE91dGRhdGVkIGxvZyBGaWxlIFBST0NFU1NfTE9HXzg5NDgubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzg5NDgubG9nClsyMiBTZXAgMjAyMCAwMTo1ODoxMC42ODBdICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCgpbMjIgU2VwIDIwMjAgMDI6MDQ6MDIuNzc5XSAgfFRvdGFsIHRlbXBGaWxlIGNvdW50PTIKClsyMiBTZXAgMjAyMCAwMjowNDowMi43ODldICB8VG90YWwgbG9nRmlsZSBjb3VudD01ClsyMiBTZXAgMjAyMCAwMjowNDowMi43ODldICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjowNDowMi43ODldICB8TG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcRVJST1JfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjowNDowMi44MjldICB8T3V0ZGF0ZWQgbG9nIEZpbGUgUFJPQ0VTU19MT0dfMTMzNzIubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzEzMzcyLmxvZwpbMjIgU2VwIDIwMjAgMDI6MDQ6MDIuODI5XSAgfExvZyBGaWxlIFBST0NFU1NfTE9HXzgxNi5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoODE2KS4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xQUk9DRVNTX0xPR184MTYubG9nClsyMiBTZXAgMjAyMCAwMjowNDowMi44MjldICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCgpbMjIgU2VwIDIwMjAgMDI6MDU6NDIuOTc2XSAgfFRvdGFsIHRlbXBGaWxlIGNvdW50PTIKClsyMiBTZXAgMjAyMCAwMjowNTo0Mi45NzZdICB8VG90YWwgbG9nRmlsZSBjb3VudD01ClsyMiBTZXAgMjAyMCAwMjowNTo0Mi45NzZdICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjowNTo0Mi45NzZdICB8TG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcRVJST1JfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjowNTo0Mi45NzZdICB8TG9nIEZpbGUgUFJPQ0VTU19MT0dfNDU3Mi5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoNDU3MikuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfNDU3Mi5sb2cKWzIyIFNlcCAyMDIwIDAyOjA1OjQyLjk4Nl0gIHxPdXRkYXRlZCBsb2cgRmlsZSBQUk9DRVNTX0xPR184MTYubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzgxNi5sb2cKWzIyIFNlcCAyMDIwIDAyOjA1OjQyLjk4Nl0gIHxMb2cgRmlsZSBTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xTT0ZUV0FSRVVQREFURV9MT0dfMjAyMC0wOS0yMi5sb2cKClsyMiBTZXAgMjAyMCAwMjoxNDozNi4wODJdICB8VG90YWwgdGVtcEZpbGUgY291bnQ9MgoKWzIyIFNlcCAyMDIwIDAyOjE0OjM2LjEyNV0gIHxUb3RhbCBsb2dGaWxlIGNvdW50PTUKWzIyIFNlcCAyMDIwIDAyOjE0OjM2LjEyNV0gIHxMb2cgRmlsZSBDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xDTEVBUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDAyOjE0OjM2LjEyNV0gIHxMb2cgRmlsZSBFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cgc2tpcHBlZC4gRmlsZVBhdGggOiBJOlxFY2xpcHNlLVdvcmtzcGFjZVxFY2xpcHNlX1dvcmtzdGF0aW9uXENhcHR1cmVFYXN5XFJlc291cmNlc1xOaWxcTG9nc1xFUlJPUl9MT0dfMjAyMC0wOS0yMi5sb2cKWzIyIFNlcCAyMDIwIDAyOjE0OjM2LjEyNV0gIHxMb2cgRmlsZSBQUk9DRVNTX0xPR18xMjYzMi5sb2cgc2tpcHBlZCBiZWNhdXNlIHRoaXMgZmlsZSBpcyBhc3NvY2lhdGVkIHdpdGggY3VycmVudGx5IHJ1bm5pbmcgcHJvY2VzcyAoMTI2MzIpLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzEyNjMyLmxvZwpbMjIgU2VwIDIwMjAgMDI6MTQ6MzYuMTM1XSAgfE91dGRhdGVkIGxvZyBGaWxlIFBST0NFU1NfTE9HXzQ1NzIubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzQ1NzIubG9nClsyMiBTZXAgMjAyMCAwMjoxNDozNi4xMzVdICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCgpbMjIgU2VwIDIwMjAgMDI6MTY6MjAuODU2XSAgfFRvdGFsIHRlbXBGaWxlIGNvdW50PTIKClsyMiBTZXAgMjAyMCAwMjoxNjoyMC44NTZdICB8VG90YWwgbG9nRmlsZSBjb3VudD01ClsyMiBTZXAgMjAyMCAwMjoxNjoyMC44NTZdICB8TG9nIEZpbGUgQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcQ0xFQVJfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjoxNjoyMC44NTZdICB8TG9nIEZpbGUgRVJST1JfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcRVJST1JfTE9HXzIwMjAtMDktMjIubG9nClsyMiBTZXAgMjAyMCAwMjoxNjoyMC44NjZdICB8T3V0ZGF0ZWQgbG9nIEZpbGUgUFJPQ0VTU19MT0dfMTI2MzIubG9nIFN1Y2Nlc3NmdWxseSBkZWxldGVkLiBGaWxlUGF0aCA6IEk6XEVjbGlwc2UtV29ya3NwYWNlXEVjbGlwc2VfV29ya3N0YXRpb25cQ2FwdHVyZUVhc3lcUmVzb3VyY2VzXE5pbFxMb2dzXFBST0NFU1NfTE9HXzEyNjMyLmxvZwpbMjIgU2VwIDIwMjAgMDI6MTY6MjAuODY2XSAgfExvZyBGaWxlIFBST0NFU1NfTE9HXzE0Njg4LmxvZyBza2lwcGVkIGJlY2F1c2UgdGhpcyBmaWxlIGlzIGFzc29jaWF0ZWQgd2l0aCBjdXJyZW50bHkgcnVubmluZyBwcm9jZXNzICgxNDY4OCkuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcUFJPQ0VTU19MT0dfMTQ2ODgubG9nClsyMiBTZXAgMjAyMCAwMjoxNjoyMC44NjZdICB8TG9nIEZpbGUgU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nIHNraXBwZWQuIEZpbGVQYXRoIDogSTpcRWNsaXBzZS1Xb3Jrc3BhY2VcRWNsaXBzZV9Xb3Jrc3RhdGlvblxDYXB0dXJlRWFzeVxSZXNvdXJjZXNcTmlsXExvZ3NcU09GVFdBUkVVUERBVEVfTE9HXzIwMjAtMDktMjIubG9nCg=="}"] at 2020-09-22 02:16:48.364
+[22 Sep 2020 02:16:49.823]  |	 	 StringBuilder HttpPut(String URL,HashMap headers,String body) Method successfully executed within 1459 milisecond and returned  {"content":{"name":"CLEAR_LOG_2020-09-22.log","path":"Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","sha":"2840d7e66fb926297ead2588c2a80567beac6e87","size":16051,"url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log?ref=master","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","git_url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/2840d7e66fb926297ead2588c2a80567beac6e87","download_url":"https://raw.githubusercontent.com/CaptureEasyUser/CaptureEasyIssues/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","type":"file","_links":{"self":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log?ref=master","git":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/2840d7e66fb926297ead2588c2a80567beac6e87","html":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log"}},"commit":{"sha":"8478878fc0a25ed307c3889985df60e210f7aacb","node_id":"MDY6Q29tbWl0Mjk3NDI4MDM2Ojg0Nzg4NzhmYzBhMjVlZDMwN2MzODg5OTg1ZGY2MGUyMTBmN2FhY2I=","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/8478878fc0a25ed307c3889985df60e210f7aacb","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/8478878fc0a25ed307c3889985df60e210f7aacb","author":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:49Z"},"committer":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:49Z"},"tree":{"sha":"8a540851109e2254d29babd8c2360a039852a1ea","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/trees/8a540851109e2254d29babd8c2360a039852a1ea"},"message":"File Upload request","parents":[{"sha":"e2fad385d86360b7a17e1afa20911a033268984e","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/e2fad385d86360b7a17e1afa20911a033268984e","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/e2fad385d86360b7a17e1afa20911a033268984e"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+.
+[22 Sep 2020 02:16:49.823]  |	 String uploadFilesOnGitHub(String destPath,String contents) Method successfully executed within 1469 milisecond and returned  {"content":{"name":"CLEAR_LOG_2020-09-22.log","path":"Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","sha":"2840d7e66fb926297ead2588c2a80567beac6e87","size":16051,"url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log?ref=master","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","git_url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/2840d7e66fb926297ead2588c2a80567beac6e87","download_url":"https://raw.githubusercontent.com/CaptureEasyUser/CaptureEasyIssues/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log","type":"file","_links":{"self":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log?ref=master","git":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/2840d7e66fb926297ead2588c2a80567beac6e87","html":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/CLEAR_LOG_2020-09-22.log"}},"commit":{"sha":"8478878fc0a25ed307c3889985df60e210f7aacb","node_id":"MDY6Q29tbWl0Mjk3NDI4MDM2Ojg0Nzg4NzhmYzBhMjVlZDMwN2MzODg5OTg1ZGY2MGUyMTBmN2FhY2I=","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/8478878fc0a25ed307c3889985df60e210f7aacb","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/8478878fc0a25ed307c3889985df60e210f7aacb","author":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:49Z"},"committer":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:49Z"},"tree":{"sha":"8a540851109e2254d29babd8c2360a039852a1ea","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/trees/8a540851109e2254d29babd8c2360a039852a1ea"},"message":"File Upload request","parents":[{"sha":"e2fad385d86360b7a17e1afa20911a033268984e","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/e2fad385d86360b7a17e1afa20911a033268984e","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/e2fad385d86360b7a17e1afa20911a033268984e"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+.
+[22 Sep 2020 02:16:49.894]  |	 String uploadFilesOnGitHub(String destPath,String contents) Method from submitBug[BugPanel.java:566] called with [https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log, [22 Sep 2020 12:15:30.662]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:15:30.675]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:15:30.686]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:15:30.765]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:15:30.779]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:15:30.791]  User Message: Exception while pursing json data
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["area"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	app.captureEasy.UI.BugTableModel.getValueAt(BugPanel.java:753)
+	javax.swing.JTable.getValueAt(Unknown Source)
+	javax.swing.JTable.prepareRenderer(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCell(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paintCells(Unknown Source)
+	javax.swing.plaf.basic.BasicTableUI.paint(Unknown Source)
+	javax.swing.plaf.ComponentUI.update(Unknown Source)
+	javax.swing.JComponent.paintComponent(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JViewport.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintChildren(Unknown Source)
+	javax.swing.JComponent.paint(Unknown Source)
+	javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	javax.swing.RepaintManager.paint(Unknown Source)
+	javax.swing.JComponent._paintImmediately(Unknown Source)
+	javax.swing.JComponent.paintImmediately(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	javax.swing.RepaintManager$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	javax.swing.RepaintManager.access$1200(Unknown Source)
+	javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:32:35.612]  User Message: Exception Occured on connecting web server...
+
+Exception Class : java.net.UnknownHostException
+Exception Message : api.github.com
+Exception Cause : null
+
+StackTrace:
+	java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	java.net.PlainSocketImpl.connect(Unknown Source)
+	java.net.SocksSocketImpl.connect(Unknown Source)
+	java.net.Socket.connect(Unknown Source)
+	sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+	sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+	sun.net.NetworkClient.doConnect(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	java.net.URL.openStream(Unknown Source)
+	app.captureEasy.web.SoftwareUpdate.GET(SoftwareUpdate.java:74)
+	app.captureEasy.web.SoftwareUpdate.checkForUpdates(SoftwareUpdate.java:59)
+	app.captureEasy.Launch.Application$1.run(Application.java:151)
+	java.util.TimerThread.mainLoop(Unknown Source)
+	java.util.TimerThread.run(Unknown Source)
+
+[22 Sep 2020 12:32:39.490]  User Message: org.json.JSONException Exception occured while fetching Issues
+
+Exception Class : org.json.JSONException
+Exception Message : A JSONArray text must start with '[' at 1 [character 2 line 1]
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONTokener.syntaxError(JSONTokener.java:432)
+	org.json.JSONArray.<init>(JSONArray.java:107)
+	org.json.JSONArray.<init>(JSONArray.java:145)
+	app.captureEasy.UI.BugTableModel.<init>(BugPanel.java:745)
+	app.captureEasy.UI.BugPanel$17.run(BugPanel.java:692)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:34:34.076]  User Message: Exception Occured on connecting web server...
+
+Exception Class : java.net.UnknownHostException
+Exception Message : api.github.com
+Exception Cause : null
+
+StackTrace:
+	java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	java.net.PlainSocketImpl.connect(Unknown Source)
+	java.net.SocksSocketImpl.connect(Unknown Source)
+	java.net.Socket.connect(Unknown Source)
+	sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+	sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+	sun.net.NetworkClient.doConnect(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	java.net.URL.openStream(Unknown Source)
+	app.captureEasy.web.SoftwareUpdate.GET(SoftwareUpdate.java:74)
+	app.captureEasy.web.SoftwareUpdate.checkForUpdates(SoftwareUpdate.java:59)
+	app.captureEasy.Launch.Application$1.run(Application.java:151)
+	java.util.TimerThread.mainLoop(Unknown Source)
+	java.util.TimerThread.run(Unknown Source)
+
+[22 Sep 2020 12:34:37.658]  User Message: org.json.JSONException Exception occured while fetching Issues
+
+Exception Class : org.json.JSONException
+Exception Message : A JSONArray text must start with '[' at 1 [character 2 line 1]
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONTokener.syntaxError(JSONTokener.java:432)
+	org.json.JSONArray.<init>(JSONArray.java:107)
+	org.json.JSONArray.<init>(JSONArray.java:145)
+	app.captureEasy.UI.BugTableModel.<init>(BugPanel.java:751)
+	app.captureEasy.UI.BugPanel$17.run(BugPanel.java:692)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 12:35:56.829]  User Message: Exception Occured on connecting web server...
+
+Exception Class : java.net.UnknownHostException
+Exception Message : api.github.com
+Exception Cause : null
+
+StackTrace:
+	java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	java.net.PlainSocketImpl.connect(Unknown Source)
+	java.net.SocksSocketImpl.connect(Unknown Source)
+	java.net.Socket.connect(Unknown Source)
+	sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+	sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+	sun.net.NetworkClient.doConnect(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.http.HttpClient.openServer(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+	sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	java.net.URL.openStream(Unknown Source)
+	app.captureEasy.web.SoftwareUpdate.GET(SoftwareUpdate.java:74)
+	app.captureEasy.web.SoftwareUpdate.checkForUpdates(SoftwareUpdate.java:59)
+	app.captureEasy.Launch.Application$1.run(Application.java:151)
+	java.util.TimerThread.mainLoop(Unknown Source)
+	java.util.TimerThread.run(Unknown Source)
+
+[22 Sep 2020 12:35:59.077]  User Message: org.json.JSONException Exception occured while fetching Issues
+
+Exception Class : org.json.JSONException
+Exception Message : A JSONArray text must start with '[' at 1 [character 2 line 1]
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONTokener.syntaxError(JSONTokener.java:432)
+	org.json.JSONArray.<init>(JSONArray.java:107)
+	org.json.JSONArray.<init>(JSONArray.java:145)
+	app.captureEasy.UI.BugTableModel.<init>(BugPanel.java:746)
+	app.captureEasy.UI.BugPanel$17.run(BugPanel.java:692)
+	java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 01:59:11.209]  User Message: org.json.JSONException Exception occured while Creating New Issues
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["id"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	org.json.JSONObject.getInt(JSONObject.java:514)
+	app.captureEasy.UI.BugPanel.submitBug(BugPanel.java:566)
+	app.captureEasy.UI.BugPanel$10.actionPerformed(BugPanel.java:351)
+	javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	java.awt.Component.processMouseEvent(Unknown Source)
+	javax.swing.JComponent.processMouseEvent(Unknown Source)
+	java.awt.Component.processEvent(Unknown Source)
+	java.awt.Container.processEvent(Unknown Source)
+	java.awt.Component.dispatchEventImpl(Unknown Source)
+	java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.awt.Component.dispatchEvent(Unknown Source)
+	java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.awt.Window.dispatchEventImpl(Unknown Source)
+	java.awt.Component.dispatchEvent(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue$4.run(Unknown Source)
+	java.awt.EventQueue$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+[22 Sep 2020 02:04:38.279]  User Message: org.json.JSONException Exception occured while Creating New Issues
+
+Exception Class : org.json.JSONException
+Exception Message : JSONObject["id"] not found.
+Exception Cause : null
+
+StackTrace:
+	org.json.JSONObject.get(JSONObject.java:454)
+	org.json.JSONObject.getInt(JSONObject.java:514)
+	app.captureEasy.UI.BugPanel.submitBug(BugPanel.java:566)
+	app.captureEasy.UI.BugPanel$10.actionPerformed(BugPanel.java:351)
+	javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	java.awt.Component.processMouseEvent(Unknown Source)
+	javax.swing.JComponent.processMouseEvent(Unknown Source)
+	java.awt.Component.processEvent(Unknown Source)
+	java.awt.Container.processEvent(Unknown Source)
+	java.awt.Component.dispatchEventImpl(Unknown Source)
+	java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.awt.Component.dispatchEvent(Unknown Source)
+	java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.awt.Window.dispatchEventImpl(Unknown Source)
+	java.awt.Component.dispatchEvent(Unknown Source)
+	java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.awt.EventQueue.access$500(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.awt.EventQueue$3.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue$4.run(Unknown Source)
+	java.awt.EventQueue$4.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.awt.EventDispatchThread.run(Unknown Source)
+
+] at 2020-09-22 02:16:49.894
+[22 Sep 2020 02:16:49.894]  |	 	 int getUniqueId() Method from uploadFilesOnGitHub[Library.java:151] called with [] at 2020-09-22 02:16:49.894
+[22 Sep 2020 02:16:49.894]  |	 	 int getUniqueId() Method successfully executed within 0 milisecond and returned  24360.
+[22 Sep 2020 02:16:49.894]  |	 	 StringBuilder HttpPut(String URL,HashMap headers,String body) Method from uploadFilesOnGitHub[Library.java:153] called with [https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log, {Authorization=Token a2aa3b1bcee82cef0602f93ca98cab2ce7ea01a8, =, Accept=application/vnd.github.v3+json}, {"message": "File Upload request","committer": {"name": "User(24360)","email": "Dummy"},"content": "WzIyIFNlcCAyMDIwIDEyOjE1OjMwLjY2Ml0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjE1OjMwLjY3NV0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjE1OjMwLjY4Nl0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjE1OjMwLjc2NV0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjE1OjMwLjc3OV0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjE1OjMwLjc5MV0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIHdoaWxlIHB1cnNpbmcganNvbiBkYXRhCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiYXJlYSJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnVGFibGVNb2RlbC5nZXRWYWx1ZUF0KEJ1Z1BhbmVsLmphdmE6NzUzKQoJamF2YXguc3dpbmcuSlRhYmxlLmdldFZhbHVlQXQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVGFibGUucHJlcGFyZVJlbmRlcmVyKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxsKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY1RhYmxlVUkucGFpbnRDZWxscyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNUYWJsZVVJLnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5Db21wb25lbnRVSS51cGRhdGUoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q29tcG9uZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KVmlld3BvcnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludENoaWxkcmVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnRDaGlsZHJlbihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50Q2hpbGRyZW4oVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wYWludFRvT2Zmc2NyZWVuKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIkUGFpbnRNYW5hZ2VyLnBhaW50RG91YmxlQnVmZmVyZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciRQYWludE1hbmFnZXIucGFpbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkpDb21wb25lbnQuX3BhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnBhaW50SW1tZWRpYXRlbHkoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlciQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5wYWludERpcnR5UmVnaW9ucyhVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyLnBhaW50RGlydHlSZWdpb25zKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuUmVwYWludE1hbmFnZXIucHJlUGFpbnREaXJ0eVJlZ2lvbnMoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5SZXBhaW50TWFuYWdlci5hY2Nlc3MkMTIwMChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLlJlcGFpbnRNYW5hZ2VyJFByb2Nlc3NpbmdSdW5uYWJsZS5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjMyOjM1LjYxMl0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIE9jY3VyZWQgb24gY29ubmVjdGluZyB3ZWIgc2VydmVyLi4uCgpFeGNlcHRpb24gQ2xhc3MgOiBqYXZhLm5ldC5Vbmtub3duSG9zdEV4Y2VwdGlvbgpFeGNlcHRpb24gTWVzc2FnZSA6IGFwaS5naXRodWIuY29tCkV4Y2VwdGlvbiBDYXVzZSA6IG51bGwKClN0YWNrVHJhY2U6CglqYXZhLm5ldC5BYnN0cmFjdFBsYWluU29ja2V0SW1wbC5jb25uZWN0KFVua25vd24gU291cmNlKQoJamF2YS5uZXQuUGxhaW5Tb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglqYXZhLm5ldC5Tb2Nrc1NvY2tldEltcGwuY29ubmVjdChVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlNvY2tldC5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLnNlY3VyaXR5LnNzbC5TU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4uc2VjdXJpdHkuc3NsLkJhc2VTU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lk5ldHdvcmtDbGllbnQuZG9Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cuaHR0cC5IdHRwQ2xpZW50Lm9wZW5TZXJ2ZXIoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5odHRwLkh0dHBDbGllbnQub3BlblNlcnZlcihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Ljxpbml0PihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Lk5ldyhVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkFic3RyYWN0RGVsZWdhdGVIdHRwc1VSTENvbm5lY3Rpb24uZ2V0TmV3SHR0cENsaWVudChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0MChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuQWJzdHJhY3REZWxlZ2F0ZUh0dHBzVVJMQ29ubmVjdGlvbi5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cC5IdHRwVVJMQ29ubmVjdGlvbi5nZXRJbnB1dFN0cmVhbTAoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5wcm90b2NvbC5odHRwLkh0dHBVUkxDb25uZWN0aW9uLmdldElucHV0U3RyZWFtKFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuSHR0cHNVUkxDb25uZWN0aW9uSW1wbC5nZXRJbnB1dFN0cmVhbShVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlVSTC5vcGVuU3RyZWFtKFVua25vd24gU291cmNlKQoJYXBwLmNhcHR1cmVFYXN5LndlYi5Tb2Z0d2FyZVVwZGF0ZS5HRVQoU29mdHdhcmVVcGRhdGUuamF2YTo3NCkKCWFwcC5jYXB0dXJlRWFzeS53ZWIuU29mdHdhcmVVcGRhdGUuY2hlY2tGb3JVcGRhdGVzKFNvZnR3YXJlVXBkYXRlLmphdmE6NTkpCglhcHAuY2FwdHVyZUVhc3kuTGF1bmNoLkFwcGxpY2F0aW9uJDEucnVuKEFwcGxpY2F0aW9uLmphdmE6MTUxKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLm1haW5Mb29wKFVua25vd24gU291cmNlKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLnJ1bihVbmtub3duIFNvdXJjZSkKClsyMiBTZXAgMjAyMCAxMjozMjozOS40OTBdICBVc2VyIE1lc3NhZ2U6IG9yZy5qc29uLkpTT05FeGNlcHRpb24gRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgZmV0Y2hpbmcgSXNzdWVzCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogQSBKU09OQXJyYXkgdGV4dCBtdXN0IHN0YXJ0IHdpdGggJ1snIGF0IDEgW2NoYXJhY3RlciAyIGxpbmUgMV0KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05Ub2tlbmVyLnN5bnRheEVycm9yKEpTT05Ub2tlbmVyLmphdmE6NDMyKQoJb3JnLmpzb24uSlNPTkFycmF5Ljxpbml0PihKU09OQXJyYXkuamF2YToxMDcpCglvcmcuanNvbi5KU09OQXJyYXkuPGluaXQ+KEpTT05BcnJheS5qYXZhOjE0NSkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdUYWJsZU1vZGVsLjxpbml0PihCdWdQYW5lbC5qYXZhOjc0NSkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdQYW5lbCQxNy5ydW4oQnVnUGFuZWwuamF2YTo2OTIpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjM0OjM0LjA3Nl0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIE9jY3VyZWQgb24gY29ubmVjdGluZyB3ZWIgc2VydmVyLi4uCgpFeGNlcHRpb24gQ2xhc3MgOiBqYXZhLm5ldC5Vbmtub3duSG9zdEV4Y2VwdGlvbgpFeGNlcHRpb24gTWVzc2FnZSA6IGFwaS5naXRodWIuY29tCkV4Y2VwdGlvbiBDYXVzZSA6IG51bGwKClN0YWNrVHJhY2U6CglqYXZhLm5ldC5BYnN0cmFjdFBsYWluU29ja2V0SW1wbC5jb25uZWN0KFVua25vd24gU291cmNlKQoJamF2YS5uZXQuUGxhaW5Tb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglqYXZhLm5ldC5Tb2Nrc1NvY2tldEltcGwuY29ubmVjdChVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlNvY2tldC5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLnNlY3VyaXR5LnNzbC5TU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4uc2VjdXJpdHkuc3NsLkJhc2VTU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lk5ldHdvcmtDbGllbnQuZG9Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cuaHR0cC5IdHRwQ2xpZW50Lm9wZW5TZXJ2ZXIoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5odHRwLkh0dHBDbGllbnQub3BlblNlcnZlcihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Ljxpbml0PihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Lk5ldyhVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkFic3RyYWN0RGVsZWdhdGVIdHRwc1VSTENvbm5lY3Rpb24uZ2V0TmV3SHR0cENsaWVudChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0MChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuQWJzdHJhY3REZWxlZ2F0ZUh0dHBzVVJMQ29ubmVjdGlvbi5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cC5IdHRwVVJMQ29ubmVjdGlvbi5nZXRJbnB1dFN0cmVhbTAoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5wcm90b2NvbC5odHRwLkh0dHBVUkxDb25uZWN0aW9uLmdldElucHV0U3RyZWFtKFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuSHR0cHNVUkxDb25uZWN0aW9uSW1wbC5nZXRJbnB1dFN0cmVhbShVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlVSTC5vcGVuU3RyZWFtKFVua25vd24gU291cmNlKQoJYXBwLmNhcHR1cmVFYXN5LndlYi5Tb2Z0d2FyZVVwZGF0ZS5HRVQoU29mdHdhcmVVcGRhdGUuamF2YTo3NCkKCWFwcC5jYXB0dXJlRWFzeS53ZWIuU29mdHdhcmVVcGRhdGUuY2hlY2tGb3JVcGRhdGVzKFNvZnR3YXJlVXBkYXRlLmphdmE6NTkpCglhcHAuY2FwdHVyZUVhc3kuTGF1bmNoLkFwcGxpY2F0aW9uJDEucnVuKEFwcGxpY2F0aW9uLmphdmE6MTUxKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLm1haW5Mb29wKFVua25vd24gU291cmNlKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLnJ1bihVbmtub3duIFNvdXJjZSkKClsyMiBTZXAgMjAyMCAxMjozNDozNy42NThdICBVc2VyIE1lc3NhZ2U6IG9yZy5qc29uLkpTT05FeGNlcHRpb24gRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgZmV0Y2hpbmcgSXNzdWVzCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogQSBKU09OQXJyYXkgdGV4dCBtdXN0IHN0YXJ0IHdpdGggJ1snIGF0IDEgW2NoYXJhY3RlciAyIGxpbmUgMV0KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05Ub2tlbmVyLnN5bnRheEVycm9yKEpTT05Ub2tlbmVyLmphdmE6NDMyKQoJb3JnLmpzb24uSlNPTkFycmF5Ljxpbml0PihKU09OQXJyYXkuamF2YToxMDcpCglvcmcuanNvbi5KU09OQXJyYXkuPGluaXQ+KEpTT05BcnJheS5qYXZhOjE0NSkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdUYWJsZU1vZGVsLjxpbml0PihCdWdQYW5lbC5qYXZhOjc1MSkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdQYW5lbCQxNy5ydW4oQnVnUGFuZWwuamF2YTo2OTIpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDEyOjM1OjU2LjgyOV0gIFVzZXIgTWVzc2FnZTogRXhjZXB0aW9uIE9jY3VyZWQgb24gY29ubmVjdGluZyB3ZWIgc2VydmVyLi4uCgpFeGNlcHRpb24gQ2xhc3MgOiBqYXZhLm5ldC5Vbmtub3duSG9zdEV4Y2VwdGlvbgpFeGNlcHRpb24gTWVzc2FnZSA6IGFwaS5naXRodWIuY29tCkV4Y2VwdGlvbiBDYXVzZSA6IG51bGwKClN0YWNrVHJhY2U6CglqYXZhLm5ldC5BYnN0cmFjdFBsYWluU29ja2V0SW1wbC5jb25uZWN0KFVua25vd24gU291cmNlKQoJamF2YS5uZXQuUGxhaW5Tb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglqYXZhLm5ldC5Tb2Nrc1NvY2tldEltcGwuY29ubmVjdChVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlNvY2tldC5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLnNlY3VyaXR5LnNzbC5TU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4uc2VjdXJpdHkuc3NsLkJhc2VTU0xTb2NrZXRJbXBsLmNvbm5lY3QoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lk5ldHdvcmtDbGllbnQuZG9Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cuaHR0cC5IdHRwQ2xpZW50Lm9wZW5TZXJ2ZXIoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5odHRwLkh0dHBDbGllbnQub3BlblNlcnZlcihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Ljxpbml0PihVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkh0dHBzQ2xpZW50Lk5ldyhVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHBzLkFic3RyYWN0RGVsZWdhdGVIdHRwc1VSTENvbm5lY3Rpb24uZ2V0TmV3SHR0cENsaWVudChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0MChVbmtub3duIFNvdXJjZSkKCXN1bi5uZXQud3d3LnByb3RvY29sLmh0dHAuSHR0cFVSTENvbm5lY3Rpb24ucGxhaW5Db25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuQWJzdHJhY3REZWxlZ2F0ZUh0dHBzVVJMQ29ubmVjdGlvbi5jb25uZWN0KFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cC5IdHRwVVJMQ29ubmVjdGlvbi5nZXRJbnB1dFN0cmVhbTAoVW5rbm93biBTb3VyY2UpCglzdW4ubmV0Lnd3dy5wcm90b2NvbC5odHRwLkh0dHBVUkxDb25uZWN0aW9uLmdldElucHV0U3RyZWFtKFVua25vd24gU291cmNlKQoJc3VuLm5ldC53d3cucHJvdG9jb2wuaHR0cHMuSHR0cHNVUkxDb25uZWN0aW9uSW1wbC5nZXRJbnB1dFN0cmVhbShVbmtub3duIFNvdXJjZSkKCWphdmEubmV0LlVSTC5vcGVuU3RyZWFtKFVua25vd24gU291cmNlKQoJYXBwLmNhcHR1cmVFYXN5LndlYi5Tb2Z0d2FyZVVwZGF0ZS5HRVQoU29mdHdhcmVVcGRhdGUuamF2YTo3NCkKCWFwcC5jYXB0dXJlRWFzeS53ZWIuU29mdHdhcmVVcGRhdGUuY2hlY2tGb3JVcGRhdGVzKFNvZnR3YXJlVXBkYXRlLmphdmE6NTkpCglhcHAuY2FwdHVyZUVhc3kuTGF1bmNoLkFwcGxpY2F0aW9uJDEucnVuKEFwcGxpY2F0aW9uLmphdmE6MTUxKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLm1haW5Mb29wKFVua25vd24gU291cmNlKQoJamF2YS51dGlsLlRpbWVyVGhyZWFkLnJ1bihVbmtub3duIFNvdXJjZSkKClsyMiBTZXAgMjAyMCAxMjozNTo1OS4wNzddICBVc2VyIE1lc3NhZ2U6IG9yZy5qc29uLkpTT05FeGNlcHRpb24gRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgZmV0Y2hpbmcgSXNzdWVzCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogQSBKU09OQXJyYXkgdGV4dCBtdXN0IHN0YXJ0IHdpdGggJ1snIGF0IDEgW2NoYXJhY3RlciAyIGxpbmUgMV0KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05Ub2tlbmVyLnN5bnRheEVycm9yKEpTT05Ub2tlbmVyLmphdmE6NDMyKQoJb3JnLmpzb24uSlNPTkFycmF5Ljxpbml0PihKU09OQXJyYXkuamF2YToxMDcpCglvcmcuanNvbi5KU09OQXJyYXkuPGluaXQ+KEpTT05BcnJheS5qYXZhOjE0NSkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdUYWJsZU1vZGVsLjxpbml0PihCdWdQYW5lbC5qYXZhOjc0NikKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdQYW5lbCQxNy5ydW4oQnVnUGFuZWwuamF2YTo2OTIpCglqYXZhLmF3dC5ldmVudC5JbnZvY2F0aW9uRXZlbnQuZGlzcGF0Y2goVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5hY2Nlc3MkNTAwKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LkFjY2Vzc0NvbnRyb2xsZXIuZG9Qcml2aWxlZ2VkKE5hdGl2ZSBNZXRob2QpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcE9uZUV2ZW50Rm9yRmlsdGVycyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckZpbHRlcihVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50c0ZvckhpZXJhcmNoeShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucHVtcEV2ZW50cyhVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50RGlzcGF0Y2hUaHJlYWQucnVuKFVua25vd24gU291cmNlKQoKWzIyIFNlcCAyMDIwIDAxOjU5OjExLjIwOV0gIFVzZXIgTWVzc2FnZTogb3JnLmpzb24uSlNPTkV4Y2VwdGlvbiBFeGNlcHRpb24gb2NjdXJlZCB3aGlsZSBDcmVhdGluZyBOZXcgSXNzdWVzCgpFeGNlcHRpb24gQ2xhc3MgOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uCkV4Y2VwdGlvbiBNZXNzYWdlIDogSlNPTk9iamVjdFsiaWQiXSBub3QgZm91bmQuCkV4Y2VwdGlvbiBDYXVzZSA6IG51bGwKClN0YWNrVHJhY2U6CglvcmcuanNvbi5KU09OT2JqZWN0LmdldChKU09OT2JqZWN0LmphdmE6NDU0KQoJb3JnLmpzb24uSlNPTk9iamVjdC5nZXRJbnQoSlNPTk9iamVjdC5qYXZhOjUxNCkKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdQYW5lbC5zdWJtaXRCdWcoQnVnUGFuZWwuamF2YTo1NjYpCglhcHAuY2FwdHVyZUVhc3kuVUkuQnVnUGFuZWwkMTAuYWN0aW9uUGVyZm9ybWVkKEJ1Z1BhbmVsLmphdmE6MzUxKQoJamF2YXguc3dpbmcuQWJzdHJhY3RCdXR0b24uZmlyZUFjdGlvblBlcmZvcm1lZChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkFic3RyYWN0QnV0dG9uJEhhbmRsZXIuYWN0aW9uUGVyZm9ybWVkKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuRGVmYXVsdEJ1dHRvbk1vZGVsLmZpcmVBY3Rpb25QZXJmb3JtZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5EZWZhdWx0QnV0dG9uTW9kZWwuc2V0UHJlc3NlZChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLnBsYWYuYmFzaWMuQmFzaWNCdXR0b25MaXN0ZW5lci5tb3VzZVJlbGVhc2VkKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuQ29tcG9uZW50LnByb2Nlc3NNb3VzZUV2ZW50KFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuSkNvbXBvbmVudC5wcm9jZXNzTW91c2VFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkNvbXBvbmVudC5wcm9jZXNzRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db250YWluZXIucHJvY2Vzc0V2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuQ29tcG9uZW50LmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuQ29udGFpbmVyLmRpc3BhdGNoRXZlbnRJbXBsKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuQ29tcG9uZW50LmRpc3BhdGNoRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5MaWdodHdlaWdodERpc3BhdGNoZXIucmV0YXJnZXRNb3VzZUV2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuTGlnaHR3ZWlnaHREaXNwYXRjaGVyLnByb2Nlc3NNb3VzZUV2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuTGlnaHR3ZWlnaHREaXNwYXRjaGVyLmRpc3BhdGNoRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db250YWluZXIuZGlzcGF0Y2hFdmVudEltcGwoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5XaW5kb3cuZGlzcGF0Y2hFdmVudEltcGwoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db21wb25lbnQuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuZGlzcGF0Y2hFdmVudEltcGwoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmFjY2VzcyQ1MDAoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlJDMucnVuKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQzLnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuc2VjdXJpdHkuQWNjZXNzQ29udHJvbGxlci5kb1ByaXZpbGVnZWQoTmF0aXZlIE1ldGhvZCkKCWphdmEuc2VjdXJpdHkuUHJvdGVjdGlvbkRvbWFpbiRKYXZhU2VjdXJpdHlBY2Nlc3NJbXBsLmRvSW50ZXJzZWN0aW9uUHJpdmlsZWdlKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZSQ0LnJ1bihVbmtub3duIFNvdXJjZSkKCWphdmEuc2VjdXJpdHkuQWNjZXNzQ29udHJvbGxlci5kb1ByaXZpbGVnZWQoTmF0aXZlIE1ldGhvZCkKCWphdmEuc2VjdXJpdHkuUHJvdGVjdGlvbkRvbWFpbiRKYXZhU2VjdXJpdHlBY2Nlc3NJbXBsLmRvSW50ZXJzZWN0aW9uUHJpdmlsZWdlKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5kaXNwYXRjaEV2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5wdW1wT25lRXZlbnRGb3JGaWx0ZXJzKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5wdW1wRXZlbnRzRm9yRmlsdGVyKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5wdW1wRXZlbnRzRm9ySGllcmFyY2h5KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5wdW1wRXZlbnRzKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5wdW1wRXZlbnRzKFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnREaXNwYXRjaFRocmVhZC5ydW4oVW5rbm93biBTb3VyY2UpCgpbMjIgU2VwIDIwMjAgMDI6MDQ6MzguMjc5XSAgVXNlciBNZXNzYWdlOiBvcmcuanNvbi5KU09ORXhjZXB0aW9uIEV4Y2VwdGlvbiBvY2N1cmVkIHdoaWxlIENyZWF0aW5nIE5ldyBJc3N1ZXMKCkV4Y2VwdGlvbiBDbGFzcyA6IG9yZy5qc29uLkpTT05FeGNlcHRpb24KRXhjZXB0aW9uIE1lc3NhZ2UgOiBKU09OT2JqZWN0WyJpZCJdIG5vdCBmb3VuZC4KRXhjZXB0aW9uIENhdXNlIDogbnVsbAoKU3RhY2tUcmFjZToKCW9yZy5qc29uLkpTT05PYmplY3QuZ2V0KEpTT05PYmplY3QuamF2YTo0NTQpCglvcmcuanNvbi5KU09OT2JqZWN0LmdldEludChKU09OT2JqZWN0LmphdmE6NTE0KQoJYXBwLmNhcHR1cmVFYXN5LlVJLkJ1Z1BhbmVsLnN1Ym1pdEJ1ZyhCdWdQYW5lbC5qYXZhOjU2NikKCWFwcC5jYXB0dXJlRWFzeS5VSS5CdWdQYW5lbCQxMC5hY3Rpb25QZXJmb3JtZWQoQnVnUGFuZWwuamF2YTozNTEpCglqYXZheC5zd2luZy5BYnN0cmFjdEJ1dHRvbi5maXJlQWN0aW9uUGVyZm9ybWVkKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcuQWJzdHJhY3RCdXR0b24kSGFuZGxlci5hY3Rpb25QZXJmb3JtZWQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5EZWZhdWx0QnV0dG9uTW9kZWwuZmlyZUFjdGlvblBlcmZvcm1lZChVbmtub3duIFNvdXJjZSkKCWphdmF4LnN3aW5nLkRlZmF1bHRCdXR0b25Nb2RlbC5zZXRQcmVzc2VkKFVua25vd24gU291cmNlKQoJamF2YXguc3dpbmcucGxhZi5iYXNpYy5CYXNpY0J1dHRvbkxpc3RlbmVyLm1vdXNlUmVsZWFzZWQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db21wb25lbnQucHJvY2Vzc01vdXNlRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZheC5zd2luZy5KQ29tcG9uZW50LnByb2Nlc3NNb3VzZUV2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuQ29tcG9uZW50LnByb2Nlc3NFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkNvbnRhaW5lci5wcm9jZXNzRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db21wb25lbnQuZGlzcGF0Y2hFdmVudEltcGwoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db250YWluZXIuZGlzcGF0Y2hFdmVudEltcGwoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5Db21wb25lbnQuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkxpZ2h0d2VpZ2h0RGlzcGF0Y2hlci5yZXRhcmdldE1vdXNlRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5MaWdodHdlaWdodERpc3BhdGNoZXIucHJvY2Vzc01vdXNlRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5MaWdodHdlaWdodERpc3BhdGNoZXIuZGlzcGF0Y2hFdmVudChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkNvbnRhaW5lci5kaXNwYXRjaEV2ZW50SW1wbChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LldpbmRvdy5kaXNwYXRjaEV2ZW50SW1wbChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkNvbXBvbmVudC5kaXNwYXRjaEV2ZW50KFVua25vd24gU291cmNlKQoJamF2YS5hd3QuRXZlbnRRdWV1ZS5kaXNwYXRjaEV2ZW50SW1wbChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUuYWNjZXNzJDUwMChVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkMy5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlJDMucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZhLnNlY3VyaXR5LlByb3RlY3Rpb25Eb21haW4kSmF2YVNlY3VyaXR5QWNjZXNzSW1wbC5kb0ludGVyc2VjdGlvblByaXZpbGVnZShVbmtub3duIFNvdXJjZSkKCWphdmEuYXd0LkV2ZW50UXVldWUkNC5ydW4oVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlJDQucnVuKFVua25vd24gU291cmNlKQoJamF2YS5zZWN1cml0eS5BY2Nlc3NDb250cm9sbGVyLmRvUHJpdmlsZWdlZChOYXRpdmUgTWV0aG9kKQoJamF2YS5zZWN1cml0eS5Qcm90ZWN0aW9uRG9tYWluJEphdmFTZWN1cml0eUFjY2Vzc0ltcGwuZG9JbnRlcnNlY3Rpb25Qcml2aWxlZ2UoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudFF1ZXVlLmRpc3BhdGNoRXZlbnQoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnB1bXBPbmVFdmVudEZvckZpbHRlcnMoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnB1bXBFdmVudHNGb3JGaWx0ZXIoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnB1bXBFdmVudHNGb3JIaWVyYXJjaHkoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnB1bXBFdmVudHMoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnB1bXBFdmVudHMoVW5rbm93biBTb3VyY2UpCglqYXZhLmF3dC5FdmVudERpc3BhdGNoVGhyZWFkLnJ1bihVbmtub3duIFNvdXJjZSkKCg=="}"] at 2020-09-22 02:16:49.894
+[22 Sep 2020 02:16:51.852]  |	 	 StringBuilder HttpPut(String URL,HashMap headers,String body) Method successfully executed within 1958 milisecond and returned  {"content":{"name":"ERROR_LOG_2020-09-22.log","path":"Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","sha":"3ca49cd658975226ee619177f1e97723d0870ff6","size":32689,"url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log?ref=master","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","git_url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/3ca49cd658975226ee619177f1e97723d0870ff6","download_url":"https://raw.githubusercontent.com/CaptureEasyUser/CaptureEasyIssues/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","type":"file","_links":{"self":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log?ref=master","git":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/3ca49cd658975226ee619177f1e97723d0870ff6","html":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log"}},"commit":{"sha":"68564fd0be9486512c364bfa91e082d95e46095d","node_id":"MDY6Q29tbWl0Mjk3NDI4MDM2OjY4NTY0ZmQwYmU5NDg2NTEyYzM2NGJmYTkxZTA4MmQ5NWU0NjA5NWQ=","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/68564fd0be9486512c364bfa91e082d95e46095d","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/68564fd0be9486512c364bfa91e082d95e46095d","author":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:50Z"},"committer":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:50Z"},"tree":{"sha":"2d6236abf54dcb4348076eb50229d4177fe6f5ac","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/trees/2d6236abf54dcb4348076eb50229d4177fe6f5ac"},"message":"File Upload request","parents":[{"sha":"8478878fc0a25ed307c3889985df60e210f7aacb","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/8478878fc0a25ed307c3889985df60e210f7aacb","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/8478878fc0a25ed307c3889985df60e210f7aacb"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+.
+[22 Sep 2020 02:16:51.861]  |	 String uploadFilesOnGitHub(String destPath,String contents) Method successfully executed within 1958 milisecond and returned  {"content":{"name":"ERROR_LOG_2020-09-22.log","path":"Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","sha":"3ca49cd658975226ee619177f1e97723d0870ff6","size":32689,"url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log?ref=master","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","git_url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/3ca49cd658975226ee619177f1e97723d0870ff6","download_url":"https://raw.githubusercontent.com/CaptureEasyUser/CaptureEasyIssues/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log","type":"file","_links":{"self":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/contents/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log?ref=master","git":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/blobs/3ca49cd658975226ee619177f1e97723d0870ff6","html":"https://github.com/CaptureEasyUser/CaptureEasyIssues/blob/master/Attachments/User(24360)/705905167/ERROR_LOG_2020-09-22.log"}},"commit":{"sha":"68564fd0be9486512c364bfa91e082d95e46095d","node_id":"MDY6Q29tbWl0Mjk3NDI4MDM2OjY4NTY0ZmQwYmU5NDg2NTEyYzM2NGJmYTkxZTA4MmQ5NWU0NjA5NWQ=","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/68564fd0be9486512c364bfa91e082d95e46095d","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/68564fd0be9486512c364bfa91e082d95e46095d","author":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:50Z"},"committer":{"name":"User(24360)","email":"Dummy","date":"2020-09-21T20:46:50Z"},"tree":{"sha":"2d6236abf54dcb4348076eb50229d4177fe6f5ac","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/trees/2d6236abf54dcb4348076eb50229d4177fe6f5ac"},"message":"File Upload request","parents":[{"sha":"8478878fc0a25ed307c3889985df60e210f7aacb","url":"https://api.github.com/repos/CaptureEasyUser/CaptureEasyIssues/git/commits/8478878fc0a25ed307c3889985df60e210f7aacb","html_url":"https://github.com/CaptureEasyUser/CaptureEasyIssues/commit/8478878fc0a25ed307c3889985df60e210f7aacb"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+.
