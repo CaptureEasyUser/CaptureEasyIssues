@@ -1,0 +1,121 @@
+
+[23 Sep 2020 01:57:11.554]  |Total tempFile count=1
+
+[23 Sep 2020 01:57:11.565]  |Total logFile count=5
+[23 Sep 2020 01:57:11.570]  |Outdated log File CLEAR_LOG_2020-09-22.log Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-22.log
+[23 Sep 2020 01:57:11.573]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 01:57:11.574]  |Log File PROCESS_LOG_2476.log skipped because this file is associated with currently running process (2476). FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2476.log
+[23 Sep 2020 01:57:11.578]  |Outdated log File SOFTWAREUPDATE_LOG_2020-09-22.log Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-22.log
+[23 Sep 2020 01:57:11.579]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 03:57:12.747]  |Total tempFile count=1
+
+[23 Sep 2020 03:57:12.755]  |Total logFile count=3
+[23 Sep 2020 03:57:12.757]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 03:57:12.758]  |Log File PROCESS_LOG_2476.log skipped because this file is associated with currently running process (2476). FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2476.log
+[23 Sep 2020 03:57:12.759]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 05:57:12.004]  |Total tempFile count=1
+
+[23 Sep 2020 05:57:12.012]  |Total logFile count=3
+[23 Sep 2020 05:57:12.014]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 05:57:12.016]  |Log File PROCESS_LOG_2476.log skipped because this file is associated with currently running process (2476). FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2476.log
+[23 Sep 2020 05:57:12.018]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 07:57:11.560]  |Total tempFile count=1
+
+[23 Sep 2020 07:57:11.568]  |Total logFile count=3
+[23 Sep 2020 07:57:11.571]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 07:57:11.573]  |Log File PROCESS_LOG_2476.log skipped because this file is associated with currently running process (2476). FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2476.log
+[23 Sep 2020 07:57:11.575]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 08:40:36.516]  |Total tempFile count=2
+
+[23 Sep 2020 08:40:36.538]  |Total logFile count=4
+[23 Sep 2020 08:40:36.540]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 08:40:36.542]  |Log File PROCESS_LOG_14584.log skipped because this file is associated with currently running process (14584). FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_14584.log
+[23 Sep 2020 08:40:36.564]  |Outdated log File PROCESS_LOG_2476.log Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2476.log
+[23 Sep 2020 08:40:36.566]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 08:43:40.707]  |Total tempFile count=5
+[23 Sep 2020 08:43:40.723]  |Temporary File CaptureEasy.jar Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\CaptureEasy.jar
+
+[23 Sep 2020 08:43:40.740]  |Total logFile count=4
+[23 Sep 2020 08:43:40.742]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 08:43:40.757]  |Outdated log File PROCESS_LOG_14584.log Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_14584.log
+[23 Sep 2020 08:43:40.759]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 08:43:40.762]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 11:53:40.372]  |Total tempFile count=4
+[23 Sep 2020 11:53:40.427]  |Temporary Folder Downloads Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\Downloads
+[23 Sep 2020 11:53:40.443]  |Temporary Folder ExtractedImages Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\ExtractedImages
+[23 Sep 2020 11:53:40.451]  |Temporary File Installer.jar Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\Installer.jar
+
+[23 Sep 2020 11:53:40.455]  |Total logFile count=3
+[23 Sep 2020 11:53:40.457]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 11:53:40.461]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 11:53:40.465]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:31:37.986]  |Total tempFile count=1
+
+[23 Sep 2020 12:31:37.991]  |Total logFile count=3
+[23 Sep 2020 12:31:37.993]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:31:37.994]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:31:37.996]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:32:12.489]  |Total tempFile count=2
+
+[23 Sep 2020 12:32:12.507]  |Total logFile count=3
+[23 Sep 2020 12:32:12.509]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:32:12.511]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:32:12.513]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:32:34.481]  |Total tempFile count=3
+
+[23 Sep 2020 12:32:34.506]  |Total logFile count=3
+[23 Sep 2020 12:32:34.508]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:32:34.510]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:32:34.513]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:33:37.870]  |Total tempFile count=4
+
+[23 Sep 2020 12:33:37.886]  |Total logFile count=3
+[23 Sep 2020 12:33:37.888]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:33:37.890]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:33:37.891]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:34:08.402]  |Total tempFile count=5
+
+[23 Sep 2020 12:34:08.422]  |Total logFile count=3
+[23 Sep 2020 12:34:08.424]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:34:08.426]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:34:08.428]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 12:34:45.535]  |Total tempFile count=6
+
+[23 Sep 2020 12:34:45.559]  |Total logFile count=3
+[23 Sep 2020 12:34:45.561]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 12:34:45.562]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 12:34:45.564]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 02:05:34.474]  |Total tempFile count=7
+[23 Sep 2020 02:05:34.524]  |Temporary Folder 320051359 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\320051359
+[23 Sep 2020 02:05:34.537]  |Temporary Folder 347465464 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\347465464
+[23 Sep 2020 02:05:34.636]  |Temporary Folder 383852706 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\383852706
+[23 Sep 2020 02:05:34.926]  |Temporary Folder 414179765 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\414179765
+[23 Sep 2020 02:05:35.062]  |Temporary Folder 416311662 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\416311662
+[23 Sep 2020 02:05:35.076]  |Temporary Folder 983450059 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\983450059
+
+[23 Sep 2020 02:05:35.082]  |Total logFile count=3
+[23 Sep 2020 02:05:35.087]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 02:05:35.094]  |Oversized log File PROCESS_LOG_2020-09-23.log Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 02:05:35.097]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
+
+[23 Sep 2020 03:35:19.739]  |Total tempFile count=6
+[23 Sep 2020 03:35:19.950]  |Temporary Folder 109306716 Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\109306716
+[23 Sep 2020 03:35:19.969]  |Temporary File CaptureEasy.jar Successfully deleted. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Temp\CaptureEasy.jar
+
+[23 Sep 2020 03:35:19.988]  |Total logFile count=3
+[23 Sep 2020 03:35:19.996]  |Log File CLEAR_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\CLEAR_LOG_2020-09-23.log
+[23 Sep 2020 03:35:19.998]  |Log File PROCESS_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\PROCESS_LOG_2020-09-23.log
+[23 Sep 2020 03:35:20.000]  |Log File SOFTWAREUPDATE_LOG_2020-09-23.log skipped. FilePath : C:\Users\XY59036\Desktop\Resources\XY59036\Logs\SOFTWAREUPDATE_LOG_2020-09-23.log
