@@ -18,3 +18,28 @@
 [24 Sep 2020 07:17:37.094]  |Log File CLEAR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-24.log
 [24 Sep 2020 07:17:37.094]  |Log File PROCESS_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-24.log
 [24 Sep 2020 07:17:37.094]  |Log File SOFTWAREUPDATE_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-24.log
+
+[24 Sep 2020 07:21:48.240]  |Total tempFile count=2
+[24 Sep 2020 07:21:48.549]  |Temporary Folder ExtractedImages Successfully deleted. FilePath : <User Directory>\Resources\<Username>\Temp\ExtractedImages
+
+[24 Sep 2020 07:21:48.549]  |Total logFile count=4
+[24 Sep 2020 07:21:48.549]  |Log File CLEAR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-24.log
+[24 Sep 2020 07:21:48.549]  |Log File ERROR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\ERROR_LOG_2020-09-24.log
+[24 Sep 2020 07:21:48.559]  |Oversized log File PROCESS_LOG_2020-09-24.log Successfully deleted. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-24.log
+[24 Sep 2020 07:21:48.559]  |Log File SOFTWAREUPDATE_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-24.log
+
+[24 Sep 2020 07:27:53.567]  |Total tempFile count=2
+
+[24 Sep 2020 07:27:53.575]  |Total logFile count=4
+[24 Sep 2020 07:27:53.575]  |Log File CLEAR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-24.log
+[24 Sep 2020 07:27:53.576]  |Log File ERROR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\ERROR_LOG_2020-09-24.log
+[24 Sep 2020 07:27:53.576]  |Log File PROCESS_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-24.log
+[24 Sep 2020 07:27:53.576]  |Log File SOFTWAREUPDATE_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-24.log
+
+[24 Sep 2020 07:37:40.215]  |Total tempFile count=2
+
+[24 Sep 2020 07:37:40.215]  |Total logFile count=4
+[24 Sep 2020 07:37:40.215]  |Log File CLEAR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-24.log
+[24 Sep 2020 07:37:40.215]  |Log File ERROR_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\ERROR_LOG_2020-09-24.log
+[24 Sep 2020 07:37:40.215]  |Log File PROCESS_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-24.log
+[24 Sep 2020 07:37:40.215]  |Log File SOFTWAREUPDATE_LOG_2020-09-24.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-24.log
