@@ -1,0 +1,42 @@
+
+[25 Sep 2020 07:34:19.654]  |Total tempFile count=2
+
+[25 Sep 2020 07:34:19.654]  |Total logFile count=2
+[25 Sep 2020 07:34:19.654]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 07:34:19.654]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+
+[25 Sep 2020 07:36:25.035]  |Total tempFile count=2
+
+[25 Sep 2020 07:36:25.035]  |Total logFile count=3
+[25 Sep 2020 07:36:25.035]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 07:36:25.035]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+[25 Sep 2020 07:36:25.045]  |Log File SOFTWAREUPDATE_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-25.log
+
+[25 Sep 2020 07:40:07.513]  |Total tempFile count=2
+
+[25 Sep 2020 07:40:07.523]  |Total logFile count=3
+[25 Sep 2020 07:40:07.533]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 07:40:07.533]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+[25 Sep 2020 07:40:07.533]  |Log File SOFTWAREUPDATE_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-25.log
+
+[25 Sep 2020 07:40:57.600]  |Total tempFile count=2
+
+[25 Sep 2020 07:40:57.610]  |Total logFile count=3
+[25 Sep 2020 07:40:57.610]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 07:40:57.610]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+[25 Sep 2020 07:40:57.610]  |Log File SOFTWAREUPDATE_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-25.log
+
+[25 Sep 2020 09:11:24.026]  |Total tempFile count=2
+[25 Sep 2020 09:11:24.266]  |Temporary Folder ExtractedImages Successfully deleted. FilePath : <User Directory>\Resources\<Username>\Temp\ExtractedImages
+
+[25 Sep 2020 09:11:24.266]  |Total logFile count=3
+[25 Sep 2020 09:11:24.266]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 09:11:24.276]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+[25 Sep 2020 09:11:24.276]  |Log File SOFTWAREUPDATE_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-25.log
+
+[25 Sep 2020 09:18:54.807]  |Total tempFile count=2
+
+[25 Sep 2020 09:18:54.857]  |Total logFile count=3
+[25 Sep 2020 09:18:54.857]  |Log File CLEAR_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\CLEAR_LOG_2020-09-25.log
+[25 Sep 2020 09:18:54.857]  |Log File PROCESS_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\PROCESS_LOG_2020-09-25.log
+[25 Sep 2020 09:18:54.857]  |Log File SOFTWAREUPDATE_LOG_2020-09-25.log skipped. FilePath : <User Directory>\Resources\<Username>\Logs\SOFTWAREUPDATE_LOG_2020-09-25.log
