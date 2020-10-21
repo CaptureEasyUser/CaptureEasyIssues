@@ -1,0 +1,138 @@
+[21 Oct 2020 07:42:20.990]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
+[21 Oct 2020 07:43:21.178]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
+[21 Oct 2020 07:43:45.622]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
+[21 Oct 2020 07:44:35.228]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
+[21 Oct 2020 07:46:34.295]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
+[21 Oct 2020 07:47:00.388]  User Message: java.net.SocketException Exception occured while starting update 
+
+Exception Class : java.net.SocketException
+Exception Message : Connection reset
+Exception Cause : java.net.SocketException: Connection reset
+
+StackTrace:
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source)
+	java.security.AccessController.doPrivileged(Native Method)
+	sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	app.captureEasy.web.GitHub.download(GitHub.java:137)
+	app.captureEasy.web.GitHub.startUpdate(GitHub.java:352)
+	app.captureEasy.UI.ActionGUI$5$2.run(ActionGUI.java:532)
+	java.lang.Thread.run(Unknown Source)
+
